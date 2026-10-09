@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.redirect_latest and site.posts.size > 0 %}<meta http-equiv="refresh" content="0; url={{ site.posts.first.url | relative_url }}">{% endif %}
+{% seo %}
+{% feed_meta %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Literata:opsz,wght@7..72,400;7..72,700&family=Familjen+Grotesk:wght@500;600;700&family=DM+Mono:wght@300;400;500&family=Roboto:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+<div class="shell">
+  {% include sidebar.html %}
+  <main>
+  {{ content }}
+  </main>
+</div>
+<script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body>
+</html>

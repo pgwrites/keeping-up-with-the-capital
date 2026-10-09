@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class="corner">Edition <span class="ednum">{{ page.edition_no }}</span><span class="bar">|</span>{{ page.date_label }}</div>
+<article>
+  {% include masthead.html %}
+  {{ content }}
+  <p class="sign">That's all for the week. See you at 6 PM IST, next Friday.</p>
+  {% include footer.html %}
+</article>

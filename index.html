@@ -1,0 +1,15 @@
+---
+layout: default
+redirect_latest: true
+title: Keeping Up with the Capital
+---
+{% assign latest = site.posts.first %}
+<article>
+  {% include masthead.html %}
+  {% if latest %}
+  <p style="text-align:center">Taking you to the latest edition: <a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></p>
+  {% else %}
+  <p style="text-align:center">The first edition lands Friday at 6 PM IST.</p>
+  {% endif %}
+  {% include footer.html %}
+</article>

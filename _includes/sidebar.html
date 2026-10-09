@@ -1,0 +1,39 @@
+<aside>
+  <div class="railin">
+    <button class="sidehead" aria-expanded="false" data-target="eds-list">Editions <span class="pm"></span></button>
+    <ul class="eds clip" id="eds-list">
+      {% for post in site.posts %}
+      <li><a {% if post.url == page.url %}class="on" {% endif %}href="{{ post.url | relative_url }}"><span class="d">Edition {{ post.edition_no }} | {{ post.date_label }}</span>{{ post.card_title }}</a></li>
+      {% endfor %}
+    </ul>
+    <p class="emptynote">Older editions will appear here.</p>
+
+    {% comment %}
+      Memory rule: an entity is listed only once it has appeared in 2+ editions.
+      The number shown is the count of editions, not mentions. Data: _data/memory.yml
+    {% endcomment %}
+    <div class="memwrap">
+      <p class="rail-h" style="margin-top:26px">Memory</p>
+      {% assign groups = "investors|Investors,companies|Companies,themes|Themes" | split: "," %}
+      {% assign total_shown = 0 %}
+      {% for g in groups %}
+        {% assign parts = g | split: "|" %}
+        {% assign key = parts[0] %}
+        {% assign items = site.data.memory[key] | where_exp: "e", "e.editions.size >= 2" %}
+        {% if items.size > 0 %}
+          {% assign total_shown = total_shown | plus: items.size %}
+          {% assign sorted = items | sort: "name" %}
+          <button class="sidehead sub" aria-expanded="false" data-target="m-{{ key }}">{{ parts[1] }} <span class="pm"></span></button>
+          <ul class="mem clip" id="m-{{ key }}">
+            {% for e in sorted %}
+            <li>{% if e.page %}<a href="{{ '/memory/' | append: e.page | append: '/' | relative_url }}">{{ e.name }}</a>{% else %}{{ e.name }}{% endif %}<span class="n">{{ e.editions.size }}</span></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+      {% if total_shown == 0 %}
+      <p class="memnote">Memory builds from Edition 002. Any investor, company or theme that appears in two editions gets its own page here.</p>
+      {% endif %}
+    </div>
+  </div>
+</aside>

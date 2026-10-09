@@ -1,0 +1,117 @@
+# Memory index for Keeping Up with the Capital.
+#
+# THE MEMORY RULE
+# - Every investor, company and theme that appears in an edition is recorded here,
+#   with the edition numbers it appeared in.
+# - "editions" counts EDITIONS, not mentions. Ten mentions in one edition = 1.
+# - An entity is shown in the sidebar, and gets a page in _memory/, only once it
+#   has appeared in 2 or more different editions.
+# - When an entity reaches 2 editions, create _memory/<page>.md and set "page: <page>".
+
+investors:
+  - name: "Accel"
+    editions: [1]
+  - name: "Andreessen Horowitz"
+    editions: [1]
+  - name: "Benchmark"
+    editions: [1]
+  - name: "Bessemer Venture Partners"
+    editions: [1]
+  - name: "Coatue"
+    editions: [1]
+  - name: "Dragoneer"
+    editions: [1]
+  - name: "General Catalyst"
+    editions: [1]
+  - name: "GIC"
+    editions: [1]
+  - name: "Jane Street"
+    editions: [1]
+  - name: "Lightspeed"
+    editions: [1]
+  - name: "Menlo Ventures"
+    editions: [1]
+  - name: "Peak XV Partners"
+    editions: [1]
+  - name: "Premji Invest"
+    editions: [1]
+  - name: "Samsung"
+    editions: [1]
+  - name: "Sequoia Capital"
+    editions: [1]
+  - name: "Tiger Global"
+    editions: [1]
+  - name: "360 One"
+    editions: [1]
+  - name: "3one4 Capital"
+    editions: [1]
+  - name: "Velumani family office"
+    editions: [1]
+
+companies:
+  - name: "Agrani Labs"
+    editions: [1]
+  - name: "AceVector (Snapdeal)"
+    editions: [1]
+  - name: "Airtable"
+    editions: [1]
+  - name: "Anthropic"
+    editions: [1]
+  - name: "Armadin"
+    editions: [1]
+  - name: "Bending Spoons"
+    editions: [1]
+  - name: "CScale"
+    editions: [1]
+  - name: "EliseAI"
+    editions: [1]
+  - name: "Etched"
+    editions: [1]
+  - name: "FieldAI"
+    editions: [1]
+  - name: "FYDY"
+    editions: [1]
+  - name: "Ghost"
+    editions: [1]
+  - name: "Instinct"
+    editions: [1]
+  - name: "Kalshi"
+    editions: [1]
+  - name: "Kuku"
+    editions: [1]
+  - name: "Listen Labs"
+    editions: [1]
+  - name: "Meesho"
+    editions: [1]
+  - name: "Miro"
+    editions: [1]
+  - name: "Moneyview"
+    editions: [1]
+  - name: "OpenAI"
+    editions: [1]
+  - name: "Salesforce"
+    editions: [1]
+  - name: "Simple Energy"
+    editions: [1]
+  - name: "StockGro"
+    editions: [1]
+  - name: "Supabase"
+    editions: [1]
+  - name: "Tonbo Imaging"
+    editions: [1]
+
+themes:
+  - name: "Frontier AI IPOs"
+    editions: [1]
+  - name: "Private AI valuations"
+    editions: [1]
+  - name: "Software repricing"
+    editions: [1]
+  - name: "Who captures AI value"
+    editions: [1]
+  - name: "Family offices in Indian startups"
+    editions: [1]
+  - name: "Indian deeptech financing"
+    editions: [1]
+  - name: "Indian startup IPOs"
+    editions: [1]
