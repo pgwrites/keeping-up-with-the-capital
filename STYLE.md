@@ -11,11 +11,12 @@ Every edition follows these rules. Read this file in full before researching or 
 
 ## 2. Structure (five sections, in this order)
 
-1. **Greeting** (fixed, exact text, no heading):
+1. **Greeting** (fixed opening, no heading):
    - "Why, hello there, stranger! 👀"
    - "Here for a sip?"
-   - "Your favourite tea from Sand Hill Road to Koramangala is poured, and this week, everyone's whispering about money that hasn't even landed yet."
-2. **The Big Sip**: the one story or tension that defines the week. The headline is the page's only `#` (H1) heading. About 250 words.
+   - "Your favourite tea from Sand Hill Road to Koramangala is poured, and this week, everyone's whispering about…" (finish the line for the week)
+   - Then one short paragraph in the first person that frames the week as a question worth caring about, ending with "Let's get to it."
+2. **The Big Sip**: the one story or tension that defines the week. The headline is the page's only `#` (H1) heading. About 300–400 words.
 3. **Connecting the Dots**: two or three patterns built from several stories. This is the signature section. Investor theses, exits and people moves live here when they support a pattern. If a pattern doesn't make a reader think "huh", don't run it.
 4. **India, Inc.**: two or three insight-led stories. Lead with the insight, use market data as supporting context. Interesting IPOs are written up in prose (what happened, the numbers, why it matters), never as a table.
 5. **The Deal Sheet**: deals not already covered elsewhere in the edition.
@@ -29,16 +30,21 @@ The sign-off ("That's all for the week. See you at 6 PM IST, next Friday.") and 
 
 ## 3. Voice
 
-Write like Jeff Bezos and Paul Graham: a sharp, honest friend explaining to one intelligent person what matters.
+Write like a curious, well-read insider talking to a smart friend: warm, first-person and openly enthusiastic about how the money works. The reader should feel a person is walking them through the week, not a report summarising it. Human first, but every claim still sourced and every number checked.
 
-- Start with the idea, not an introduction. No scene-setting sentences ("Two labs, two very different bets…", "Three of the week's biggest stories are…"). If removing a sentence loses no idea, remove it.
+- **Write in the first person and own the opinions.** "Here's the part I find fascinating." "Here's how I think about it." "I'd go a step further." Opinions follow the evidence and stay directional (see section 4).
+- **Set up, then pay off.** A one-line setup is welcome when it earns the point that follows: "A price and a bid are different things." "If one set of deals explains software in 2026, it's this one." Don't stack setups; one per story at most.
+- **Use one analogy or simple framework per story** to make the mechanism click: two climbers on one mountain, a three-layer cake, a bid versus a price. Keep it short, keep it accurate, and never let it replace the numbers.
+- **Land each story on a memorable line** the reader could repeat at dinner: "Salesforce bought a slope. Bending Spoons bought a cash flow." Bold it only when it is the single takeaway of the story, and at most once per story.
+- **Talk to the reader.** Questions to the reader ("Why would family money step in where VCs stepped back?") and direct asides ("If you read one thing this weekend, make it this.") are encouraged, in moderation.
+- **Curious and optimistic, not cynical.** Find what is interesting in the week, including the bad news. No sneering at companies or people.
 - Headlines are arguments, not labels. "A $30 million-revenue AI startup sold for more than Airtable", not "Software valuations".
-- Observation, then explanation, then implication. Show why a conclusion follows. End each story on the "so what".
-- Simple words, short sentences for the key points, specific numbers instead of adjectives.
+- Observation, then explanation, then implication. Show why a conclusion follows, and end each story on the "so what".
+- Specific numbers instead of adjectives. Do the arithmetic for the reader when it reveals something (multiples, per-dollar figures, shares of a total). Compute it; never estimate in your head. Short forms like "12x" are fine.
 - Explain the counterintuitive part; that's usually the insight.
-- Do the arithmetic for the reader when it reveals something (multiples, per-dollar figures, shares of a total). Compute it; never estimate in your head.
-- Gossip is seasoning only. The greeting carries it. In the body, at most a light touch.
-- No corporate language (unlock, leverage, robust, seamless, transformative) and no hype.
+- Simple words. Mix short punchy sentences with longer explanatory ones so it reads like speech.
+- Gossip is seasoning. The greeting carries most of it; the body can have a light touch.
+- No corporate language (unlock, leverage, robust, seamless, transformative), no hype words and no filler. Warmth comes from the person behind the sentences, not from padding: if a sentence adds no idea, no setup and no feeling, cut it.
 - Don't write "Translation:", "In other words" or "Quick primer". Just write the explanation as the next sentence.
 - Decode only numerical or technical jargon (e.g. "subscribed 100 times", "offer for sale"). Don't explain basic VC terms.
 
