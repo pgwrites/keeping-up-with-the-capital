@@ -101,6 +101,7 @@ Every detail must serve its story's headline. If a fact is true, verified and in
 - The count is the number of **editions**, never the number of mentions.
 - An entity appears in the sidebar and gets a page in `_memory/` only once it has appeared in **two or more editions**.
 - When an entity reaches two editions, create `_memory/<slug>.md` (template below) and add `page: <slug>` to its entry. Update existing memory pages with each new appearance.
+- The sidebar hides the Memory section entirely until at least one entity qualifies. Don't add any reader-facing note explaining the memory rule; it lives here and on the methodology page only.
 
 Memory page template:
 
