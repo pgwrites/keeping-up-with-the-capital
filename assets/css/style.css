@@ -266,3 +266,9 @@ article.home .foot{margin-top:auto}
 .mast-home .sub{color:#000;max-width:none}
 .mast-home .home-curated a{color:var(--blue)}
 .mast-home .sub{text-wrap:pretty}
+/* Homepage title: solid black, two left-aligned lines centred as a block, globe after "Up" */
+.mast-home .mast-title{color:#000;-webkit-text-stroke:0}
+.mast-home .mt-lines{display:inline-block;text-align:left}
+.mast-home .mast-globe{height:.8em;width:auto;vertical-align:-.06em;margin-left:.04em}
+.mast-home .sub{color:var(--blue)}
+.mast-home .home-curated a{color:#000;text-decoration-color:#000}
