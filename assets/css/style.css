@@ -255,3 +255,9 @@ article.home{min-height:calc(100vh - 56px - 56px - 32px);display:flex;flex-direc
 article.home .foot{margin-top:auto}
 @media (max-width:860px){article.home{min-height:calc(100vh - 56px - 36px - 32px)}}
 .shell{min-height:calc(100vh - 56px)}
+/* Homepage masthead: 2pt (≈2.67px) larger than the edition masthead */
+.mast-home .mast-title{font-size:clamp(52.67px,calc(9vw + 2.67px),98.67px)}
+.mast-home .sub{font-size:26.67px !important}
+.mast-home .home-curated{margin-top:12px}
+.mast-home .home-curated a{color:var(--blue)}
+@media (max-width:860px){.mast-home .sub{font-size:24.33px !important}}
