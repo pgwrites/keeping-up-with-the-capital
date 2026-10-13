@@ -300,3 +300,7 @@ article.home .foot{padding-top:56px}
 }
 .home-recs a,.mast-home .home-curated a{text-decoration:none}
 .mast-home .home-curated a:hover{color:var(--blue)}
+/* Homepage: subtitle and link at 13pt; solid black title */
+.mast-home .sub{font-size:17.33px !important}
+@media (max-width:860px){.mast-home .sub{font-size:17.33px !important}}
+.mast-home .mast-title{color:#000;-webkit-text-stroke:0}
