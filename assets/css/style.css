@@ -272,3 +272,7 @@ article.home .foot{margin-top:auto}
 .mast-home .mast-globe{height:.8em;width:auto;vertical-align:-.06em;margin-left:.04em}
 .mast-home .sub{color:var(--blue)}
 .mast-home .home-curated a{color:#000;text-decoration-color:#000}
+/* Homepage title: lime with blue outline; bigger globe; black Roboto Mono subtitle */
+.mast-home .mast-title{color:var(--lime);-webkit-text-stroke:2px var(--blue);paint-order:stroke fill}
+.mast-home .mast-globe{height:1em;vertical-align:-.12em}
+.mast-home .sub:not(.home-curated){font-family:"Roboto Mono",ui-monospace,Menlo,monospace;color:#000}
