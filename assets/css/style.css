@@ -238,3 +238,19 @@ h1.take{font-size:26px}
 .memnote{font-size:12.5px;color:#555;margin:10px 0 0;line-height:1.5}
 .mem-sources{font-size:15px}
 .mast{padding-top:36px}
+
+/* Homepage */
+.home-pitch{text-align:center;font-size:18px;color:var(--soft);max-width:560px;margin:0 auto 44px;text-wrap:balance}
+.home-kicker{font-family:var(--mono);font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--blue);margin:0 0 14px}
+.home-kicker .bar{opacity:.45;padding:0 4px}
+.home-latest{border-top:1.5px solid var(--blue);padding-top:26px}
+.home .home-title{font-family:var(--serif);font-weight:700;font-size:clamp(26px,3.4vw,32px);line-height:1.22;color:var(--ink);margin:0 0 14px;padding:0;border:0;text-wrap:balance}
+.home-title a{text-decoration:none}
+.home-desc{margin:0 0 18px}
+.home-cta{font-family:var(--mono);font-size:15px;margin:0}
+.home-cta a{color:var(--blue)}
+.home-archive{margin-top:56px;border-top:1px solid var(--rule);padding-top:22px}
+.home-archive ul{list-style:none;margin:0;padding:0}
+.home-archive li{border-bottom:1px solid var(--rule)}
+.home-archive a{display:block;padding:14px 0;text-decoration:none;font-size:18px;line-height:1.4}
+.home-archive .d{display:block;font-family:var(--mono);font-size:12.5px;color:var(--soft);margin-bottom:3px}

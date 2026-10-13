@@ -1,15 +1,35 @@
 ---
 layout: default
-redirect_latest: true
 title: Keeping Up with the Capital
+description: "Weekly notes on venture capital and startups, read through an Indian lens. Every Friday at 6 PM IST: what the money is telling us this week."
 ---
 {% assign latest = site.posts.first %}
-<article>
+<article class="home">
   {% include masthead.html %}
+
+  <p class="home-pitch">Not every funding round. Just what the money is telling us. A new edition every Friday at 6 PM IST, covering the week from Saturday to Friday.</p>
+
   {% if latest %}
-  <p style="text-align:center">Taking you to the latest edition: <a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></p>
-  {% else %}
-  <p style="text-align:center">The first edition lands Friday at 6 PM IST.</p>
+  <section class="home-latest">
+    <p class="home-kicker">Latest <span class="bar">|</span> Edition {{ latest.edition_no }} <span class="bar">|</span> {{ latest.date_label }}</p>
+    <h2 class="home-title"><a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h2>
+    <p class="home-desc">{{ latest.description }}</p>
+    <p class="home-cta"><a href="{{ latest.url | relative_url }}">Read Edition {{ latest.edition_no }} →</a></p>
+  </section>
+
+  {% if site.posts.size > 1 %}
+  <section class="home-archive">
+    <p class="home-kicker">Earlier editions</p>
+    <ul>
+      {% for post in site.posts offset:1 %}
+      <li><a href="{{ post.url | relative_url }}"><span class="d">Edition {{ post.edition_no }} | {{ post.date_label }}</span>{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
   {% endif %}
+  {% else %}
+  <p class="home-pitch">The first edition lands Friday at 6 PM IST.</p>
+  {% endif %}
+
   {% include footer.html %}
 </article>
