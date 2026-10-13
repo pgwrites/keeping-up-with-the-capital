@@ -287,3 +287,14 @@ article.home .foot{padding-top:56px}
 /* Homepage subtitle and link 2pt smaller */
 .mast-home .sub{font-size:24px !important}
 @media (max-width:860px){.mast-home .sub{font-size:21.67px !important}}
+/* Homepage subtitle and link at 14pt; black underlines on sources; highlighted heading */
+.mast-home .sub{font-size:18.67px !important}
+@media (max-width:860px){.mast-home .sub{font-size:18.67px !important}}
+.home-recs a{text-decoration-color:#000}
+.home-recs h2 mark{padding:0 6px}
+/* Header stays put; side panel stays put on desktop */
+.topbar{position:sticky;top:0;z-index:20}
+@media (min-width:861px){
+  aside{position:sticky;top:56px;align-self:start;height:calc(100vh - 56px);overflow-y:auto}
+  .railin{position:static}
+}
