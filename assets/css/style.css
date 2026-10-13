@@ -261,3 +261,8 @@ article.home .foot{margin-top:auto}
 .mast-home .home-curated{margin-top:12px}
 .mast-home .home-curated a{color:var(--blue)}
 @media (max-width:860px){.mast-home .sub{font-size:24.33px !important}}
+.home{max-width:860px}
+.mast-home .mast-title{color:var(--blue);-webkit-text-stroke:2px #000}
+.mast-home .sub{color:#000;max-width:none}
+.mast-home .home-curated a{color:var(--blue)}
+.mast-home .sub{text-wrap:pretty}
