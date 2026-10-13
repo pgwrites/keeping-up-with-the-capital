@@ -298,3 +298,5 @@ article.home .foot{padding-top:56px}
   aside{position:sticky;top:56px;align-self:start;height:calc(100vh - 56px);overflow-y:auto}
   .railin{position:static}
 }
+.home-recs a,.mast-home .home-curated a{text-decoration:none}
+.mast-home .home-curated a:hover{color:var(--blue)}
