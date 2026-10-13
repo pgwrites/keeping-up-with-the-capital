@@ -243,3 +243,11 @@ h1.take{font-size:26px}
 .topbar{height:56px;background:var(--lime);border-bottom:1px solid #d3e8a6}
 .corner{position:static !important;text-align:center !important;margin:-32px 0 28px}
 @media (max-width:860px){.corner{margin:-14px 0 22px}}
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:0 22px}
+.topbar-logo{display:flex;align-items:center;text-decoration:none}
+.topbar-logo img{display:block;height:48px;width:auto}
+.topbar-made{margin:0;display:flex;align-items:center;gap:8px;font-family:var(--mono);font-size:13.5px;color:#111}
+.topbar-made a{display:flex;line-height:0}
+.topbar-made a:hover svg rect{fill:#004182}
+main.bare{min-height:calc(100vh - 56px);background:#fff;padding:0}
+@media (max-width:860px){.topbar{padding:0 16px}}

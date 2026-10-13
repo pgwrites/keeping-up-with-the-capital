@@ -12,13 +12,20 @@
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-<header class="topbar"></header>
+<header class="topbar">
+  <a class="topbar-logo" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Keeping Up with the Capital home" width="42" height="48"></a>
+  <p class="topbar-made">Made by <a href="https://www.linkedin.com/in/payalgusain" target="_blank" rel="noopener" aria-label="Payal Gusain on LinkedIn"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect width="24" height="24" rx="4" fill="#0A66C2"/><path fill="#fff" d="M7.1 9.6H4.9V19h2.2V9.6zM6 8.4a1.3 1.3 0 1 0 0-2.6 1.3 1.3 0 0 0 0 2.6zM19.1 13.8c0-2.5-.5-4.4-3.4-4.4-1.4 0-2.3.8-2.7 1.5h-.1V9.6h-2.1V19H13v-4.7c0-1.2.2-2.4 1.8-2.4 1.5 0 1.5 1.4 1.5 2.5V19h2.2v-5.2z"/></svg></a></p>
+</header>
+{% if page.bare %}
+<main class="bare"></main>
+{% else %}
 <div class="shell">
   {% include sidebar.html %}
   <main>
   {{ content }}
   </main>
 </div>
+{% endif %}
 <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </body>
 </html>
