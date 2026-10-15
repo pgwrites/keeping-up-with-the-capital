@@ -1,5 +1,5 @@
 title: Keeping Up with the Capital
-tagline: Your weekly gossip on who's raising, investing, and building, from Silicon Valley to India, Inc.
+tagline: Weekly VC news with an India focus
 description: >-
   Weekly notes on venture capital and startups for enthusiasts, with a focus on India.
   What the money is telling us, from Silicon Valley to India, Inc.
@@ -7,7 +7,15 @@ url: https://pgwrites.github.io
 baseurl: /keeping-up-with-the-capital
 lang: en_IN
 timezone: Asia/Kolkata
-author: Keeping Up with the Capital
+author:
+  name: Payal Gusain
+  url: https://www.linkedin.com/in/payalgusain
+logo: /assets/img/logo.png
+
+# Google Search Console verification (HTML tag method): paste only the
+# content="..." value Search Console gives you.
+# webmaster_verifications:
+#   google: PASTE_TOKEN_HERE
 
 # Each edition lives in _posts/ as YYYY-MM-DD-short-slug.md
 permalink: /editions/:year-:month-:day-:title/
