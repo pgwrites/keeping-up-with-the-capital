@@ -37,6 +37,11 @@ collections:
     permalink: /memory/:name/
 
 defaults:
+  # Share card shown when any page is linked on LinkedIn, X, WhatsApp, Slack
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/share-card.png
   - scope:
       path: ""
       type: posts
