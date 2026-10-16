@@ -26,7 +26,7 @@ Let's get to it.
 # Anthropic grew 45% in one quarter, and investors still knocked $500 billion off its IPO price
 {: .take}
 
-Here's a question I love asking founders: are you fast, or are you speeding up? They sound the same. They aren't, and this week the difference cost [Anthropic](https://www.anthropic.com/) about $500 billion on paper.
+Being fast and speeding up sound like the same thing. They aren't, and this week the difference cost [Anthropic](https://www.anthropic.com/) about $500 billion on paper.
 
 On Wednesday, Anthropic hosted its biggest backers for an investor day with CEO Dario Amodei and finance chief Krishna Rao. Per [Reuters](https://wtvbam.com/2026/10/15/exclusive-investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/), it told them third-quarter revenue was $16.8 billion, up 45% from the second quarter, and that it was profitable on an adjusted basis. By any normal yardstick that's remarkable. Growth of 45% a quarter compounds to more than 4x a year, and one quarter now brings in more than three and a half times the $4.6 billion Anthropic made in all of 2025.
 
@@ -96,7 +96,7 @@ Now compare the private side. Indian startups raised just [$113.35 million](http
 ### India's ₹1 lakh crore deeptech fund has picked its first 19 VCs, and it wants private money alongside every rupee
 {: .take}
 
-Last edition, Agrani Labs was applying for money from the government's research and innovation (RDI) scheme. This week we learned who will hand most of that money out.
+Last edition, Agrani Labs was applying for money from the government's research and innovation (RDI) scheme. This week, the Economic Times reported who will hand most of that money out.
 
 The RDI Fund named its first cohort: [19 fund managers sharing ₹7,131 crore](https://www.inkl.com/news/blume-speciale-kalaari-chiratae-others-part-of-first-cohort-to-receive-rs-7-131-crore-rdi-fund), picked from more than 160 applicants, per the Economic Times. Fourteen are VC funds, including Chiratae, Blume, Kalaari and Speciale Invest. Five are research organisations: IISc's ARTPARK, C-CAMP, IIT Madras Research Park, BITS Pilani's PIEDS and IIT Bombay's SINE. They can back only research-heavy companies at technology readiness level 4 or above, and they are expected to raise private money alongside the government's.
 
