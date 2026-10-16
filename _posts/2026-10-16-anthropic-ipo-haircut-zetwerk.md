@@ -1,9 +1,9 @@
 ---
-title: "Anthropic's sales grew 45% last quarter, but investors now want to value its IPO $500 billion lower"
-description: "Why slower growth cut Anthropic's expected IPO valuation from $2 trillion to $1.5 trillion, why investors punished debt-heavy CoreWeave while paying up for Modal and Ramp, corporates backing AI hardware startups, and Zetwerk's IPO below its last private price."
+title: "Investors are questioning how AI gets paid for, and chip stocks, CoreWeave and Anthropic's IPO price all fell"
+description: "Why debt worries hit chip stocks, CoreWeave and Anthropic's expected IPO valuation, why private investors still paid up for Modal, Ramp and Anduril, corporates backing AI hardware startups, and Zetwerk's IPO below its last private price."
 edition_no: "002"
 date_label: "16th October 2026"
-card_title: "Investors want a cheaper Anthropic IPO"
+card_title: "AI's debt worries hit Anthropic"
 covers: "10 October to 16 October 2026"
 ---
 
@@ -13,9 +13,9 @@ Hello there, stranger! 👀
 
 Here for a sip?
 
-Your favourite tea from Sand Hill Road to Koramangala is poured, and this week, everyone's whispering about the investor day that took half a trillion dollars off the table.
+Your favourite tea from Sand Hill Road to Koramangala is poured, and this week, everyone's whispering about who is actually paying for AI.
 
-Last week, I said the stock market was about to get a say in what frontier AI is worth. I didn't expect it to start before the IPO. This week, investors who have happily paid up for AI in private began asking tougher questions. Is growth slowing? Who's carrying the debt? And who actually gets paid when AI runs? <mark>So is AI getting cheaper, or just getting priced properly?</mark>
+Last week, I said the stock market was about to get a say in what frontier AI is worth. I didn't expect it to start this soon. This week, public investors began asking harder questions about the money behind AI: the debt, the spending and the growth needed to pay for both. Private investors, meanwhile, kept paying up. <mark>So is AI getting cheaper, or just getting priced properly?</mark>
 
 Let's get to it.
 
@@ -23,46 +23,43 @@ Let's get to it.
 
 ## The Big Sip
 
-# Anthropic's sales grew 45% last quarter, but investors now want to value its IPO $500 billion lower
+# Investors are questioning how AI gets paid for, and chip stocks, CoreWeave and Anthropic's IPO price all fell
 {: .take}
 
-Moving fast and speeding up sound like the same thing. But they aren't, and this week, the difference cost [Anthropic](https://www.anthropic.com/) about $500 billion on paper.
+For two years, investors funded AI's build-out with little argument. This week, they started asking who pays for it, and the answer showed up in three places at once.
 
-Anthropic is preparing to go public. On Wednesday, it gave its biggest investors an update, [Reuters reported](https://wtvbam.com/2026/10/15/exclusive-investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/). From July to September, it brought in $16.8 billion. That's 45% more than in the three months before. It also made a profit, by its own adjusted measure.
+First, chip stocks. US chipmakers lost [$1.64 trillion in value](https://www.aol.com/articles/us-chip-stocks-set-wipe-135038000.html) in just over a week. Reuters put it down to bets on an interest-rate hike and worries about the cost of building AI.
 
-To put that in context, Anthropic made $4.6 billion in all of 2025. It now makes more than three times that in a single quarter.
+Second, CoreWeave. [CoreWeave](https://www.coreweave.com) rents out computing power from AI chips it owns, and it bought those chips with borrowed money: about [$50 billion of debt](https://www.bnnbloomberg.ca/investing/2026/10/15/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount/), against roughly $13 billion in sales expected this year. Its shares fell more than 15% in a single day, and its bonds began trading like those of a company in trouble. Investor Chamath Palihapitiya [asked on X](https://www.benzinga.com/markets/equities/26/10/62345955/elon-musk-says-yikes-as-coreweave-bond-yield-hits-15-amid-chamath-palihapitiyas-private-credit-bubble-warning), <mark>"Is the AI buildout creating a private credit bubble?"</mark> Elon Musk replied with one word: <mark>"Yikes."</mark> The same day, Gartner warned that about four in five companies like CoreWeave could shut down by 2030.
 
-So why the long faces? The trend. In the previous quarter, sales had more than doubled. This quarter, they grew 45%. That's still fast, but it's slower. According to Reuters' sources, some investors now want to value Anthropic at about $1.5 trillion in its IPO. Before this, they expected about $2 trillion. That's $500 billion less, before a single share has traded.
+Third, and most visibly, Anthropic. On Wednesday, [Anthropic](https://www.anthropic.com/) gave its biggest investors an update ahead of its IPO, [Reuters reported](https://wtvbam.com/2026/10/15/exclusive-investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/). From July to September, it brought in $16.8 billion, 45% more than in the three months before. That's more than three times what it made in all of 2025. But in the previous quarter, sales had more than doubled. Growth is still fast, but it's slowing, and investors are also weighing the high cost of financing AI. Some now want to value Anthropic at about $1.5 trillion in its IPO, down from the roughly $2 trillion they expected. That's $500 billion less, before a single share has traded.
 
-**Investors care less about how fast Anthropic is growing than about whether that growth is speeding up.**
+A week earlier, the Financial Times also reported that OpenAI brings in [about $50 billion a year, not the $70 billion](https://finance.yahoo.com/technology/article/anthropic-q3-revenue-climbs-to-168-billion-report-221619202.html) investors had assumed.
 
-Even $1.5 trillion is a steep price. It's about 22 times what Anthropic now earns in a year. And it's still well above the [$965 billion](https://finance.yahoo.com/technology/ai/articles/two-exit-doors-anthropic-2-051103937.html) investors valued it at in May.
+**Investors still believe in AI demand. What they're now questioning is whether the debt and spending behind it will pay off.**
 
-The wider mood didn't help. US chip stocks lost [$1.64 trillion in value](https://www.aol.com/articles/us-chip-stocks-set-wipe-135038000.html) in just over a week. Reuters says investors are worried about rising interest rates and the cost of building AI. A week earlier, the Financial Times reported that OpenAI brings in [about $50 billion a year, not the $70 billion](https://finance.yahoo.com/technology/article/anthropic-q3-revenue-climbs-to-168-billion-report-221619202.html) investors had assumed.
+There's a case for calm. Evan Schlossman of [Neostellar Capital](https://neostellar.vc), a listed fund that owns CoreWeave shares, told [Fortune](https://fortune.com/2026/10/16/coreweave-investor-explains-ai-neocloud-debt/) that CoreWeave's customers are on <mark>"take-or-pay"</mark> contracts, which means they pay even if they don't use the capacity. And a lower Anthropic price may even help. Michael Parekh, who ran Goldman Sachs' internet research in the 1990s, [wrote this week](https://michaelparekh.substack.com/p/show-and-tell-in-ai-anthropic-microsoft) that <mark>"an IPO priced to sell, that trades well afterwards, is often better than one priced at the peak."</mark>
 
-Not everyone is worried. An early Anthropic investor told [Fortune](https://fortune.com/2026/10/15/anthropic-investor-ipo-financials/) he still expects the IPO to price at around $1.8 trillion and climb from there. On the other side, independent research firm New Constructs thinks Anthropic is [worth just $150 billion](https://www.benzinga.com/markets/private-markets/26/10/62239452/anthropic-ipo-could-be-2026s-most-ridiculous-offering-as-analyst-values-ai-firm-at-just-150-billion-unprecedented-test-of-investor-gullibility).
-
-A lower price may even help. Michael Parekh, who ran Goldman Sachs' internet research in the 1990s, [wrote this week](https://michaelparekh.substack.com/p/show-and-tell-in-ai-anthropic-microsoft) that <mark>"an IPO priced to sell, that trades well afterwards, is often better than one priced at the peak."</mark>
-
-This matters beyond one company. OpenAI is still private, and investors there are reportedly paying $1.4 trillion. Soon, every private AI price like that will be compared with a public one. This week, that yardstick got shorter.
+Even at $1.5 trillion, Anthropic would be valued at about 22 times what it now earns in a year, and well above the [$965 billion](https://finance.yahoo.com/technology/ai/articles/two-exit-doors-anthropic-2-051103937.html) investors paid in May. The question is no longer whether AI is growing. It's whether it can grow fast enough to cover what it costs.
 
 ## Connecting the Dots
 
 <div class="pattern" markdown="1">
 
-### Investors punished CoreWeave for borrowing heavily to buy AI chips, while paying more for Modal and Ramp
+### While public investors sold AI stocks, private investors paid much higher prices for Modal, Ramp and Anduril
 
-This week, investors drew a sharp line between AI companies that carry heavy debt and those that don't.
+The same week CoreWeave's bonds slumped, three private companies were valued far above their last prices.
 
-- **CoreWeave borrowed heavily to buy AI chips.** [CoreWeave](https://www.coreweave.com) rents out computing power from AI chips it owns. It bought those chips with borrowed money: about [$50 billion of debt](https://www.bnnbloomberg.ca/investing/2026/10/15/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount/), against roughly $13 billion in sales expected this year. This week, investors started to doubt it can pay that back. Its shares fell more than 15% in a single day, and its bonds began trading like those of a company in trouble. Investor Chamath Palihapitiya [asked on X](https://www.benzinga.com/markets/equities/26/10/62345955/elon-musk-says-yikes-as-coreweave-bond-yield-hits-15-amid-chamath-palihapitiyas-private-credit-bubble-warning), <mark>"Is the AI buildout creating a private credit bubble?"</mark> Elon Musk replied with one word: <mark>"Yikes."</mark> The same day, Gartner warned that about four in five companies like CoreWeave could shut down by 2030.
-- **Modal rents chips instead of owning them.** [Modal](https://modal.com/) rents computing power from more than 20 cloud providers and packages it so developers can run AI easily. It now brings in more than $1 billion a year. This week, it raised [$750 million at a $15.75 billion valuation](https://modal.com/blog/1-billion-annualized-run-rate-series-d). That's [more than three times](https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/) what it was worth in May. [Accel](https://www.accel.com) led the round, and [Kleiner Perkins](https://www.kleinerperkins.com) joined.
-- **Ramp's software manages company spending, including on AI.** [Ramp](https://ramp.com) offers corporate charge cards, expense management and bill-payment software to companies. It raised [$1.85 billion at a $60 billion valuation](https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/), up from $44 billion just four months ago. [Dragoneer](https://www.dragoneer.com), [Thrive Capital](https://thrivecap.com) and [Founders Fund](https://foundersfund.com) were among the leads. Ramp now sells a card built for AI agents, and early investor Keith Rabois told TechCrunch it will become the main way companies manage what they spend on AI.
+- **Modal: more than three times its May valuation.** [Modal](https://modal.com/) rents computing power from more than 20 cloud providers and packages it so developers can run AI easily. It doesn't own the chips. It now brings in more than $1 billion a year and raised [$750 million at a $15.75 billion valuation](https://modal.com/blog/1-billion-annualized-run-rate-series-d), [more than three times](https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/) what it was worth in May. [Accel](https://www.accel.com) led the round, and [Kleiner Perkins](https://www.kleinerperkins.com) joined.
+- **Ramp: from $44 billion to $60 billion in four months.** [Ramp](https://ramp.com) offers corporate charge cards, expense management and bill-payment software to companies. It raised [$1.85 billion at a $60 billion valuation](https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/), with [Dragoneer](https://www.dragoneer.com), [Thrive Capital](https://thrivecap.com) and [Founders Fund](https://foundersfund.com) among the leads. It now sells a card built for AI agents, and early investor Keith Rabois told TechCrunch it will become the main way companies manage what they spend on AI.
+- **Anduril: about $90 billion, up from $61 billion in May.** [Anduril](https://www.anduril.com) is letting current and former staff sell up to $1.3 billion of their shares by 9 November, at a price that values it at about $90 billion, [according to Dealroom](https://dealroom.co/news/162674-anduril-eyes-90b-valuation-in-1-3b-employee-share-sale/).
 
-All three depend on the same AI boom. But if demand cools, they get hit differently. CoreWeave still has to repay its lenders. The chips Modal uses belong to other companies. And Ramp's business grows with company spending, whoever the supplier is. **This week, investors rewarded companies that make money from AI being used, and punished the one that borrowed to buy the hardware.**
+Part of the gap is real. Modal and Ramp don't carry CoreWeave's hardware debt, so a pullback in AI spending would hit them differently. But part of it is timing. Public prices change every day. Private prices change only when a few investors agree on a new round or a tender.
 
-CoreWeave's backers have a case. Evan Schlossman of [Neostellar Capital](https://neostellar.vc), a listed fund that owns CoreWeave shares, told [Fortune](https://fortune.com/2026/10/16/coreweave-investor-explains-ai-neocloud-debt/) that its customers are on <mark>"take-or-pay"</mark> contracts. That means they pay even if they don't use the capacity. CoreWeave says those contracts more than cover its debt. Still, PitchBook's John Atkins summed up the mood to [Axios](https://www.axios.com/2026/10/15/ai-coreweave-bonds-stocks): <mark>"people are taking a dim view of speculative borrowing that will need to be refinanced at punishingly high rates."</mark> For now, money is moving away from whoever carries the hardware debt.
+**Public investors reprice AI in days. Private investors reprice it only when they have to.** If Anthropic lists well below $2 trillion, these private prices will be the next ones tested.
 
 </div>
+
 
 <div class="pattern" markdown="1">
 
@@ -117,7 +114,6 @@ This is a start, not a flood. The first group gets about 7% of the full fund, an
 ## The Deal Sheet
 
 <ul class="dlist">
-<li><span class="dco"><a href="https://www.anduril.com">Anduril</a></span><span class="dmeta">Employee tender · up to $1.3B at ~$90B</span><span class="dsig">The defence-tech company is letting current and former staff sell up to $1.3 billion of their shares by 9 November, at a price that values it at about $90 billion. <a href="https://dealroom.co/news/162674-anduril-eyes-90b-valuation-in-1-3b-employee-share-sale/">In May, it was valued at $61 billion</a>.</span></li>
 <li><span class="dco"><a href="https://www.harmonic.security">Harmonic Security</a></span><span class="dmeta">Series B · $50M · <a href="https://www.crosspointcapital.com">Crosspoint Capital Partners</a></span><span class="dsig">Software that tracks how employees use AI tools, from chatbots to agents, and controls what data goes into them. Its founders previously built and sold another security company, Digital Shadows. CEO Alastair Paterson says every board now asks <a href="https://securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection">two questions: how to reduce the risk of AI use, and whether it's paying off</a>.</span></li>
 <li><span class="dco"><a href="https://www.confido.health">Confido Health</a></span><span class="dmeta">Series A extension · $12.5M · <a href="https://www.z47.com">Z47</a></span><span class="dsig">AI agents that handle a medical practice's admin work: scheduling, insurance checks, billing and patient follow-ups. It's used at <a href="https://www.fiercehealthcare.com/ai-and-machine-learning/confido-health-expands-beyond-voice-ai-agentic-platform-medical-practices">more than 1,500 US clinics and care sites</a>. It sells first to private equity firms, then to the clinics they own. <a href="https://blume.vc">Blume Ventures</a> and <a href="https://together.fund">Together Fund</a> also invested.</span></li>
 <li><span class="dco"><a href="https://spill.games">Spill Games</a></span><span class="dmeta">Series A · $10.5M · <a href="https://www.elevationcapital.com">Elevation Capital</a></span><span class="dsig">A Bengaluru studio making free casual and puzzle games for players around the world. It uses its own software to build games faster. Founded in 2024, it raised <a href="https://inc42.com/?p=575958">a $3.1 million seed only in April</a> and now has six games out.</span></li>
@@ -154,13 +150,11 @@ This is a start, not a flood. The first group gets about 7% of the full fund, an
 <li><a href="https://finance.yahoo.com/technology/article/anthropic-q3-revenue-climbs-to-168-billion-report-221619202.html">Yahoo Finance</a> <span>— Anthropic's Q3 revenue and OpenAI's revenue revision</span></li>
 <li><a href="https://www.aol.com/articles/us-chip-stocks-set-wipe-135038000.html">Reuters</a> <span>— US chip stocks' selloff</span></li>
 <li><a href="https://fortune.com/2026/10/15/anthropic-investor-ipo-financials/">Fortune</a> <span>— An early Anthropic backer's IPO view</span></li>
-<li><a href="https://www.benzinga.com/markets/private-markets/26/10/62239452/anthropic-ipo-could-be-2026s-most-ridiculous-offering-as-analyst-values-ai-firm-at-just-150-billion-unprecedented-test-of-investor-gullibility">Benzinga</a> <span>— New Constructs' bear case on Anthropic</span></li>
 <li><a href="https://www.bnnbloomberg.ca/investing/2026/10/15/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount/">Reuters</a> <span>— CoreWeave's shares, bonds and the Gartner warning</span></li>
 <li><a href="https://modal.com/blog/1-billion-annualized-run-rate-series-d">Modal</a> <span>— Modal's Series D and run rate</span></li>
 <li><a href="https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/">SiliconANGLE</a> <span>— Modal's valuation jump and cloud suppliers</span></li>
 <li><a href="https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/">TechCrunch</a> <span>— Ramp's $60 billion round</span></li>
 <li><a href="https://fortune.com/2026/10/16/coreweave-investor-explains-ai-neocloud-debt/">Fortune</a> <span>— The bull case for CoreWeave's debt</span></li>
-<li><a href="https://www.axios.com/2026/10/15/ai-coreweave-bonds-stocks">Axios</a> <span>— CoreWeave as a warning flag for the AI trade</span></li>
 <li><a href="https://tech.eu/2026/10/14/skeleton-technologies-surpasses-1b-valuation-with-siemens-backing-for-us-expansion/">Tech.eu</a> <span>— Siemens backs Skeleton Technologies</span></li>
 <li><a href="https://tech.eu/2026/10/14/salience-labs-secures-125m-to-scale-photonic-chips-for-ai-data-centres/">Tech.eu</a> <span>— Salience Labs' Series B</span></li>
 <li><a href="https://globalventuring.com/corporate/asia/hitachi-ventures-leads-25m-strategic-round-in-chemicals-platform-scimplify/">Global Corporate Venturing</a> <span>— Hitachi Ventures leads Scimplify's round</span></li>
