@@ -1,5 +1,5 @@
 ---
-title: "AI is still growing fast, but investors are now asking if it can pay for itself, and chip stocks and Anthropic took the hit"
+title: "AI is still growing fast, but investors are now asking if it can pay for itself"
 description: "Why worries over the cost of AI hit chip stocks, CoreWeave and Anthropic's expected IPO value, why private investors still paid up for Modal, Ramp and Anduril, corporates backing AI hardware startups, and Zetwerk's IPO below its last private price."
 edition_no: "002"
 date_label: "16th October 2026"
@@ -23,7 +23,7 @@ Let's get to it.
 
 ## The Big Sip
 
-# AI is still growing fast, but investors are now asking if it can pay for itself, and chip stocks and Anthropic took the hit
+# AI is still growing fast, but investors are now asking if it can pay for itself
 {: .take}
 
 For two years, investors funded AI's build-out with little argument. This week, they started worrying about what it costs and how much of it runs on borrowed money. The worry showed up in three places at once.
