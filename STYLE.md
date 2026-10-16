@@ -68,7 +68,8 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 
 - Every fact links to its source. Open and read the source before using it. Never state a number you haven't seen in a source or computed from sourced numbers.
 - Prefer primary sources (company announcements, filings, data providers) and reputable reporting (Reuters, Bloomberg, TechCrunch, Inc42, Entrackr, Economic Times, Moneycontrol, Crunchbase News, PitchBook, Dealroom, Newcomer, Fortune).
-- Aggregate many voices: investors, technologists, operators and VC enthusiasts. Investor newsletters, fund memos, podcasts with transcripts and blogs (e.g. Tomasz Tunguz, Not Boring, Stratechery) all count. X and LinkedIn posts only when publicly readable or quoted in an article.
+- Aggregate many voices: investors, technologists, operators and VC enthusiasts. Investor newsletters, fund memos, podcasts with transcripts and blogs (e.g. Tomasz Tunguz, Not Boring, Stratechery) all count. X and LinkedIn posts only when quoted in an article or pasted in by PG.
+- Include a well-known investor's or builder's opinion only when it adds to the story: it explains a number, challenges the main call, or raises something the facts alone don't. Never add a quote just to show a famous name reacted. One or two strong voices per story beat a roundup.
 - When a call is contested, include the strongest sourced counter-voice.
 - When quoting a person, give one or two lines of credentials, blended into the sentence.
 - When reporting what a person said or thinks, quote them directly where possible and link the source at that point. Never paraphrase someone's view without a link.

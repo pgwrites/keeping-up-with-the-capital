@@ -32,7 +32,7 @@ Anthropic and OpenAI have taken opposite paths. Anthropic is going public, so ev
 
 It has also promised to spend $518 billion on cloud and computing power over the next ten years. Bloomberg says it could start pitching its IPO to investors [as soon as the week of 9 November](https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday).
 
-A lot of people will see those numbers and flinch. I read them like the numbers of any company building infrastructure before demand fully arrives. The spending always comes first. The real question is whether revenue catches up.
+Critics flinched. AI skeptic Ed Zitron, CEO of EZ Primary Research, pointed out on X that Anthropic <mark>"spent $12.6bn to make $4.6bn in revenue in 2025"</mark>, [Yahoo Finance reported](https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-leaked-42b-023245734.html). I read the numbers differently, like those of any company building infrastructure before demand fully arrives. The spending always comes first. The real question is whether revenue catches up.
 
 [OpenAI](https://openai.com/) took the other path. Sam Altman says there will be [no IPO in 2026](https://app.dealroom.co/news/note/openai-seeks-30b-at-1-4t-valuation-as-ipo-waits). Instead, OpenAI is reportedly raising [at least $30 billion at a $1.4 trillion valuation](https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value) from private investors.
 
@@ -207,5 +207,6 @@ The lesson for India's IPO pipeline: a famous name and a smaller loss won't carr
 <li><a href="https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/">TechCrunch</a> <span>— Ghost's raise</span></li>
 <li><a href="https://inc42.com/buzz/fydy-in-talks-to-raise-12-mn-from-lightspeed-general-catalyst/">Inc42</a> <span>— FYDY's funding talks</span></li>
 <li><a href="https://content.dealroom.co/uploaded/2026/10/State-of-Defence-Tech-2026-.pdf">Dealroom</a> <span>— State of Defence Tech 2026</span></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-leaked-42b-023245734.html">Yahoo Finance</a> <span>— Skeptics react to Anthropic's prospectus</span></li>
 </ul>
 </details>
