@@ -36,16 +36,17 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 - **No announcement lines.** Don't announce a point before making it ("Here's how I think about it", "Here's the part I find fascinating", "I'd go a step further", "Here's the kicker", "Now compare…"). Just make the point.
 - **One idea per sentence.** Lead with the point, then add the number that proves it. Break long, winding sentences into short ones that follow each other smoothly and tell the story in order.
 - **Fewer numbers, explained.** At most two numbers in a sentence and three or four in a paragraph. Keep only the numbers the story needs, round them ("three times", not "3.39x"), and say what each one means. Before a data-heavy passage, ask: what is the one story these numbers tell? Write that sentence first.
-- **Introduce the unfamiliar.** On first mention, say in plain words what a lesser-known company or fund does. Skip this for well-known names the reader already knows (OpenAI, Anthropic, Google, Samsung, Siemens, Reliance, Jio, Snapdeal, SEBI and the like); explaining them reads as padding. When a story is about one company, give two or three sentences of background (what it does, how old or big it is, who backs it) before the news. Use descriptors for funds only when verified.
-- **Explain technical terms** the first time they appear (for example "technology readiness level", "credit default swaps", "offer for sale", "subscribed 100 times").
+- **Give context only for early-stage companies.** For a seed to Series B startup, say in one plain sentence what it does. Assume the reader already knows later-stage and well-known companies, funds and institutions (OpenAI, Anthropic, Siemens, Reliance, Jio, SEBI, CoreWeave, Kalshi and the like); explaining them reads as padding. Exception: when a story is built around one company the reader may not know, give two or three sentences of background before the news. When a company's description is needed, make it comprehensive and specific, e.g. "Ramp offers corporate charge cards, expense management and bill-payment software to companies", not "Ramp gives companies cards and software". Use descriptors for funds only when verified.
+- **Explain only highly technical concepts** (e.g. "technology readiness level", "photonic chips", "take-or-pay contracts"). Never explain basics the reader already knows, such as what AI needs to run, what a family office or offer for sale is, or what a global capability centre does.
 - **Set up, then pay off.** A one-line setup is welcome only when it carries an idea of its own: "A price and a bid are different things." "If one set of deals explains software in 2026, it's this one." Don't stack setups; one per story at most.
-- **Use one analogy or simple framework per story** to make the mechanism click: two climbers on one mountain, a three-layer cake, a bid versus a price. Keep it short, keep it accurate, and never let it replace the numbers.
-- **Land each story on a memorable line** the reader could repeat at dinner: "Salesforce bought a slope. Bending Spoons bought a cash flow." Bold it only when it is the single takeaway of the story, and at most once per story.
+- **Use analogies sparingly.** Only when a plain explanation can't do the job, and never stretch one across a story or section (no "landlords and tenants", "climbers on a mountain"). A direct statement is almost always better.
+- **Land each story on a memorable line** the reader could repeat at dinner, written in plain, literal words: "Salesforce paid for future growth. Bending Spoons paid for today's cash flow." Bold it only when it is the single takeaway of the story, and at most once per story.
 - **Talk to the reader.** Questions to the reader ("Why would family money step in where VCs stepped back?") and direct asides ("If you read one thing this weekend, make it this.") are encouraged, in moderation.
 - **Report from sources, not access.** Every edition is built from public, secondary sources. First-person opinions and analysis are welcome, but never imply conversations, interviews or access that didn't happen ("a question I love asking founders", "LPs tell me", "we learned"). Credit the outlet instead ("the Economic Times reported").
 - **Punctuate for the ear.** Put a comma after introductory words and phrases ("This week, …", "On Wednesday, …", "Last week, …"). Signal a contrast with a connector such as "But" instead of leaving the reader to infer it. Split any sentence that strings together three or more clauses. Not "Being fast and speeding up sound like the same thing. They aren't, and this week the difference cost Anthropic about $500 billion on paper." But "Moving fast and speeding up sound like the same thing. But they aren't, and this week, the difference cost Anthropic about $500 billion on paper."
 - **Curious and optimistic, not cynical.** Find what is interesting in the week, including the bad news. No sneering at companies or people.
-- Headlines are arguments, not labels. "A $30 million-revenue AI startup sold for more than Airtable", not "Software valuations".
+- **Headings must explain themselves.** Titles, subtitles, bullet labels and bold takeaways must be clear, direct and descriptive, so a reader who only skims them still gets what is being said. Make them arguments, not labels ("A $30 million-revenue AI startup sold for more than Airtable", not "Software valuations"), and keep jargon and metaphors out of them (not "Corporates are buying seats at its bottlenecks").
+- **No italics.** Never italicise. To emphasise a phrase, highlight it with `<mark>`.
 - Observation, then explanation, then implication. Show why a conclusion follows, and end each story on the "so what".
 - Specific numbers instead of adjectives, within the limits above. Do the arithmetic for the reader only when the result is the point, and say it in words ("more than three times what it made in all of last year"). Compute it; never estimate in your head.
 - Explain the counterintuitive part; that's usually the insight.
@@ -53,7 +54,7 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 - Gossip is seasoning. The greeting carries most of it; the body can have a light touch.
 - No corporate language (unlock, leverage, robust, seamless, transformative), no hype words and no filler. Warmth comes from the person behind the sentences, not from padding: if a sentence adds no idea, no setup and no feeling, cut it.
 - Don't write "Translation:", "In other words" or "Quick primer". Just write the explanation as the next sentence.
-- Don't explain basic VC terms (round, valuation, Series A, ARR). Explain everything beyond them.
+- Don't explain basic VC or business terms (round, valuation, Series A, ARR, IPO, offer for sale, family office).
 
 ## 4. Opinions: directional calls yes, forecasts no
 
@@ -70,6 +71,7 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 - Aggregate many voices: investors, technologists, operators and VC enthusiasts. Investor newsletters, fund memos, podcasts with transcripts and blogs (e.g. Tomasz Tunguz, Not Boring, Stratechery) all count. X and LinkedIn posts only when publicly readable or quoted in an article.
 - When a call is contested, include the strongest sourced counter-voice.
 - When quoting a person, give one or two lines of credentials, blended into the sentence.
+- When reporting what a person said or thinks, quote them directly where possible and link the source at that point. Never paraphrase someone's view without a link.
 - Unconfirmed figures: say "reportedly" in the sentence. No asterisks or footnotes.
 - Use descriptors for firms and people only when verified.
 - Verify dates and sequences ("four days later", "eight months on") against the sources.
@@ -92,7 +94,7 @@ Every detail must serve its story's headline. If a fact is true, verified and in
 ```
 
 - Two or three lines per deal. Product first, then the interesting signal.
-- Link company names to their official website only when verified.
+- Always link every startup and fund to its official website on first mention, once the URL is verified (in the body and in the Deal Sheet, including investors in the meta line).
 - Leave out any part of the meta line that isn't disclosed rather than writing "Not disclosed".
 
 ## 9. Rabbit Holes
