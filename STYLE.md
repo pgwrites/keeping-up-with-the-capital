@@ -12,7 +12,7 @@ Every edition follows these rules. Read this file in full before researching or 
 ## 2. Structure (five sections, in this order)
 
 1. **Greeting** (fixed opening, no heading):
-   - "Why, hello there, stranger! 👀"
+   - "Hello there, stranger! 👀"
    - "Here for a sip?"
    - "Your favourite tea from Sand Hill Road to Koramangala is poured, and this week, everyone's whispering about…" (finish the line for the week)
    - Then one short paragraph in the first person that frames the week as a question worth caring about, ending with "Let's get to it."

@@ -9,7 +9,7 @@ covers: "10 October to 16 October 2026"
 
 <div class="intro" markdown="1">
 
-Why, hello there, stranger! 👀
+Hello there, stranger! 👀
 
 Here for a sip?
 
