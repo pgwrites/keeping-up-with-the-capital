@@ -37,6 +37,8 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 - **Use one analogy or simple framework per story** to make the mechanism click: two climbers on one mountain, a three-layer cake, a bid versus a price. Keep it short, keep it accurate, and never let it replace the numbers.
 - **Land each story on a memorable line** the reader could repeat at dinner: "Salesforce bought a slope. Bending Spoons bought a cash flow." Bold it only when it is the single takeaway of the story, and at most once per story.
 - **Talk to the reader.** Questions to the reader ("Why would family money step in where VCs stepped back?") and direct asides ("If you read one thing this weekend, make it this.") are encouraged, in moderation.
+- **Report from sources, not access.** Every edition is built from public, secondary sources. First-person opinions and analysis are welcome, but never imply conversations, interviews or access that didn't happen ("a question I love asking founders", "LPs tell me", "we learned"). Credit the outlet instead ("the Economic Times reported").
+- **Punctuate for the ear.** Put a comma after introductory words and phrases ("This week, …", "On Wednesday, …", "Last week, …"). Signal a contrast with a connector such as "But" instead of leaving the reader to infer it. Split any sentence that strings together three or more clauses. Not "Being fast and speeding up sound like the same thing. They aren't, and this week the difference cost Anthropic about $500 billion on paper." But "Moving fast and speeding up sound like the same thing. But they aren't, and this week, the difference cost Anthropic about $500 billion on paper."
 - **Curious and optimistic, not cynical.** Find what is interesting in the week, including the bad news. No sneering at companies or people.
 - Headlines are arguments, not labels. "A $30 million-revenue AI startup sold for more than Airtable", not "Software valuations".
 - Observation, then explanation, then implication. Show why a conclusion follows, and end each story on the "so what".
@@ -66,7 +68,7 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 - Unconfirmed figures: say "reportedly" in the sentence. No asterisks or footnotes.
 - Use descriptors for firms and people only when verified.
 - Verify dates and sequences ("four days later", "eight months on") against the sources.
-- Proofread for grammar before publishing.
+- Proofread for grammar and punctuation (see section 3) before publishing.
 
 ## 6. The narrative test
 
