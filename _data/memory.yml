@@ -10,7 +10,8 @@
 
 investors:
   - name: "Accel"
-    editions: [1]
+    editions: [1, 2]
+    page: "accel"
   - name: "Andreessen Horowitz"
     editions: [1]
   - name: "Benchmark"
@@ -20,7 +21,8 @@ investors:
   - name: "Coatue"
     editions: [1]
   - name: "Dragoneer"
-    editions: [1]
+    editions: [1, 2]
+    page: "dragoneer"
   - name: "General Catalyst"
     editions: [1]
   - name: "GIC"
@@ -28,35 +30,80 @@ investors:
   - name: "Jane Street"
     editions: [1]
   - name: "Lightspeed"
-    editions: [1]
+    editions: [1, 2]
+    page: "lightspeed"
   - name: "Menlo Ventures"
     editions: [1]
   - name: "Peak XV Partners"
-    editions: [1]
+    editions: [1, 2]
+    page: "peak-xv-partners"
   - name: "Premji Invest"
     editions: [1]
   - name: "Samsung"
-    editions: [1]
+    editions: [1, 2]
+    page: "samsung"
   - name: "Sequoia Capital"
     editions: [1]
   - name: "Tiger Global"
     editions: [1]
   - name: "360 One"
-    editions: [1]
+    editions: [1, 2]
+    page: "360-one"
   - name: "3one4 Capital"
-    editions: [1]
+    editions: [1, 2]
+    page: "3one4-capital"
   - name: "Velumani family office"
     editions: [1]
+  - name: "Kleiner Perkins"
+    editions: [2]
+  - name: "Thrive Capital"
+    editions: [2]
+  - name: "Founders Fund"
+    editions: [2]
+  - name: "Siemens"
+    editions: [2]
+  - name: "AMD Ventures"
+    editions: [2]
+  - name: "Intel Capital"
+    editions: [2]
+  - name: "Bullhound Capital"
+    editions: [2]
+  - name: "Hitachi Ventures"
+    editions: [2]
+  - name: "Kae Capital"
+    editions: [2]
+  - name: "Capital Group"
+    editions: [2]
+  - name: "BlackRock"
+    editions: [2]
+  - name: "Blume Ventures"
+    editions: [2]
+  - name: "Chiratae Ventures"
+    editions: [2]
+  - name: "Kalaari Capital"
+    editions: [2]
+  - name: "Speciale Invest"
+    editions: [2]
+  - name: "Crosspoint Capital Partners"
+    editions: [2]
+  - name: "Z47"
+    editions: [2]
+  - name: "Elevation Capital"
+    editions: [2]
+  - name: "Impact Fund Denmark"
+    editions: [2]
 
 companies:
   - name: "Agrani Labs"
-    editions: [1]
+    editions: [1, 2]
+    page: "agrani-labs"
   - name: "AceVector (Snapdeal)"
     editions: [1]
   - name: "Airtable"
     editions: [1]
   - name: "Anthropic"
-    editions: [1]
+    editions: [1, 2]
+    page: "anthropic"
   - name: "Armadin"
     editions: [1]
   - name: "Bending Spoons"
@@ -88,7 +135,8 @@ companies:
   - name: "Moneyview"
     editions: [1]
   - name: "OpenAI"
-    editions: [1]
+    editions: [1, 2]
+    page: "openai"
   - name: "Salesforce"
     editions: [1]
   - name: "Simple Energy"
@@ -98,20 +146,56 @@ companies:
   - name: "Supabase"
     editions: [1]
   - name: "Tonbo Imaging"
-    editions: [1]
+    editions: [1, 2]
+    page: "tonbo-imaging"
+  - name: "CoreWeave"
+    editions: [2]
+  - name: "Modal"
+    editions: [2]
+  - name: "Ramp"
+    editions: [2]
+  - name: "Skeleton Technologies"
+    editions: [2]
+  - name: "Salience Labs"
+    editions: [2]
+  - name: "Scimplify"
+    editions: [2]
+  - name: "Zetwerk"
+    editions: [2]
+  - name: "Jio Platforms"
+    editions: [2]
+  - name: "Anduril"
+    editions: [2]
+  - name: "Harmonic Security"
+    editions: [2]
+  - name: "Confido Health"
+    editions: [2]
+  - name: "Spill Games"
+    editions: [2]
+  - name: "GreenCell Mobility"
+    editions: [2]
 
 themes:
   - name: "Frontier AI IPOs"
-    editions: [1]
+    editions: [1, 2]
+    page: "frontier-ai-ipos"
   - name: "Private AI valuations"
-    editions: [1]
+    editions: [1, 2]
+    page: "private-ai-valuations"
   - name: "Software repricing"
     editions: [1]
   - name: "Who captures AI value"
-    editions: [1]
+    editions: [1, 2]
+    page: "who-captures-ai-value"
   - name: "Family offices in Indian startups"
     editions: [1]
   - name: "Indian deeptech financing"
-    editions: [1]
+    editions: [1, 2]
+    page: "indian-deeptech-financing"
   - name: "Indian startup IPOs"
-    editions: [1]
+    editions: [1, 2]
+    page: "indian-startup-ipos"
+  - name: "AI infrastructure debt"
+    editions: [2]
+  - name: "Corporate investors in AI hardware"
+    editions: [2]
