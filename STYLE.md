@@ -6,7 +6,7 @@ Every edition follows these rules. Read this file in full before researching or 
 
 - A weekly digest about venture capital and startups, global in scope, with India as the lens.
 - The question every edition answers: **what is the money telling us this week?** Not "what happened in VC", but what the deals, valuations, exits and people moves signal.
-- Reader: VC enthusiasts, operators and investors who know the basics of venture (rounds, valuations, cap tables). Don't explain basics.
+- Reader: someone who recently got interested in VC and Indian startups. They know how venture works (rounds, valuations, dilution) and everyday startup terms (ARR, burn, Series A). They don't yet know most companies, funds or investors by name. They can follow one number at a time, but not several at once, and need to be told what a number means: is it big, small, good or bad? They respond best to plain words, short direct sentences and a warm, engaging tone.
 - Published every Friday at 6 PM IST. Each edition covers Saturday to Friday of that week.
 
 ## 2. Structure (five sections, in this order)
@@ -32,8 +32,13 @@ The sign-off ("That's all for the week. See you at 6 PM IST, next Friday.") and 
 
 Write like a curious, well-read insider talking to a smart friend: warm, first-person and openly enthusiastic about how the money works. The reader should feel a person is walking them through the week, not a report summarising it. Human first, but every claim still sourced and every number checked.
 
-- **Write in the first person and own the opinions.** "Here's the part I find fascinating." "Here's how I think about it." "I'd go a step further." Opinions follow the evidence and stay directional (see section 4).
-- **Set up, then pay off.** A one-line setup is welcome when it earns the point that follows: "A price and a bid are different things." "If one set of deals explains software in 2026, it's this one." Don't stack setups; one per story at most.
+- **Write in the first person and own the opinions,** but state them directly. Opinions follow the evidence and stay directional (see section 4).
+- **No announcement lines.** Don't announce a point before making it ("Here's how I think about it", "Here's the part I find fascinating", "I'd go a step further", "Here's the kicker", "Now compare…"). Just make the point.
+- **One idea per sentence.** Lead with the point, then add the number that proves it. Break long, winding sentences into short ones that follow each other smoothly and tell the story in order.
+- **Fewer numbers, explained.** At most two numbers in a sentence and three or four in a paragraph. Keep only the numbers the story needs, round them ("three times", not "3.39x"), and say what each one means. Before a data-heavy passage, ask: what is the one story these numbers tell? Write that sentence first.
+- **Introduce everyone.** On first mention, say in plain words what a company or fund does. When a story is about one company, give two or three sentences of background (what it does, how old or big it is, who backs it) before the news. Use descriptors for funds only when verified.
+- **Explain technical terms** the first time they appear (for example "technology readiness level", "credit default swaps", "offer for sale", "subscribed 100 times").
+- **Set up, then pay off.** A one-line setup is welcome only when it carries an idea of its own: "A price and a bid are different things." "If one set of deals explains software in 2026, it's this one." Don't stack setups; one per story at most.
 - **Use one analogy or simple framework per story** to make the mechanism click: two climbers on one mountain, a three-layer cake, a bid versus a price. Keep it short, keep it accurate, and never let it replace the numbers.
 - **Land each story on a memorable line** the reader could repeat at dinner: "Salesforce bought a slope. Bending Spoons bought a cash flow." Bold it only when it is the single takeaway of the story, and at most once per story.
 - **Talk to the reader.** Questions to the reader ("Why would family money step in where VCs stepped back?") and direct asides ("If you read one thing this weekend, make it this.") are encouraged, in moderation.
@@ -42,13 +47,13 @@ Write like a curious, well-read insider talking to a smart friend: warm, first-p
 - **Curious and optimistic, not cynical.** Find what is interesting in the week, including the bad news. No sneering at companies or people.
 - Headlines are arguments, not labels. "A $30 million-revenue AI startup sold for more than Airtable", not "Software valuations".
 - Observation, then explanation, then implication. Show why a conclusion follows, and end each story on the "so what".
-- Specific numbers instead of adjectives. Do the arithmetic for the reader when it reveals something (multiples, per-dollar figures, shares of a total). Compute it; never estimate in your head. Short forms like "12x" are fine.
+- Specific numbers instead of adjectives, within the limits above. Do the arithmetic for the reader only when the result is the point, and say it in words ("more than three times what it made in all of last year"). Compute it; never estimate in your head.
 - Explain the counterintuitive part; that's usually the insight.
 - Simple words. Mix short punchy sentences with longer explanatory ones so it reads like speech.
 - Gossip is seasoning. The greeting carries most of it; the body can have a light touch.
 - No corporate language (unlock, leverage, robust, seamless, transformative), no hype words and no filler. Warmth comes from the person behind the sentences, not from padding: if a sentence adds no idea, no setup and no feeling, cut it.
 - Don't write "Translation:", "In other words" or "Quick primer". Just write the explanation as the next sentence.
-- Decode only numerical or technical jargon (e.g. "subscribed 100 times", "offer for sale"). Don't explain basic VC terms.
+- Don't explain basic VC terms (round, valuation, Series A, ARR). Explain everything beyond them.
 
 ## 4. Opinions: directional calls yes, forecasts no
 
