@@ -304,3 +304,10 @@ article.home .foot{padding-top:56px}
 .mast-home .sub{font-size:17.33px !important}
 @media (max-width:860px){.mast-home .sub{font-size:17.33px !important}}
 .mast-home .mast-title{color:#000;-webkit-text-stroke:0}
+
+/* Mobile editions list: stack vertically, show only the latest edition; the Editions toggle reveals the rest */
+@media (max-width:860px){
+  aside .eds{grid-auto-flow:row;grid-auto-columns:auto;overflow-x:visible;margin-bottom:12px}
+  aside .eds a .d{white-space:normal}
+  ul.eds.clip:not(.open) > li:nth-child(n+2){display:none}
+}
