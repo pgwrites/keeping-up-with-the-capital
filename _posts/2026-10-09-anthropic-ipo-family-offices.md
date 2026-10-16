@@ -28,7 +28,7 @@ Let's get to it.
 
 Picture two climbers on the same mountain. One stops, sets up base camp and lets everyone see exactly how much oxygen it has burned. The other keeps climbing, funded by a small group of backers who agree on a price among themselves.
 
-That's Anthropic and OpenAI right now. Both are frontier AI labs, the companies building the most advanced AI models. Anthropic makes Claude. OpenAI makes ChatGPT.
+That's Anthropic and OpenAI right now.
 
 [Anthropic](https://www.anthropic.com/) is the one at base camp. It's preparing to go public, and its IPO filing, [seen by Reuters](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/), gives us the first real look at a frontier lab's finances. Revenue grew 12x in 2025, to nearly $4.6 billion. But spending grew faster. Anthropic lost $8.06 billion running the business. For every $1 that came in, about $2.75 went out.
 
@@ -36,7 +36,7 @@ It has also promised to spend $518 billion on cloud and computing power over the
 
 A lot of people will see those numbers and flinch. I read them like the numbers of any company building infrastructure before demand fully arrives. The spending always comes first. The real question is whether revenue catches up.
 
-[OpenAI](https://openai.com/) took the other path. CEO Sam Altman says there will be [no IPO in 2026](https://app.dealroom.co/news/note/openai-seeks-30b-at-1-4t-valuation-as-ipo-waits). Instead, OpenAI is reportedly raising [at least $30 billion at a $1.4 trillion valuation](https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value) from private investors.
+[OpenAI](https://openai.com/) took the other path. Sam Altman says there will be [no IPO in 2026](https://app.dealroom.co/news/note/openai-seeks-30b-at-1-4t-valuation-as-ipo-waits). Instead, OpenAI is reportedly raising [at least $30 billion at a $1.4 trillion valuation](https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value) from private investors.
 
 You'd expect investors to prefer the lab that stays private and keeps marking itself up. But they don't. In September, tech newsletter Newcomer [surveyed 25 VCs](https://reports.newcomer.co/). Three in four said they'd buy Anthropic shares. Only two in five said the same of OpenAI.
 
@@ -67,8 +67,8 @@ But a price only counts once someone can sell at it. PitchBook counted [just 18 
 Two software deals show how differently buyers now price companies.
 
 - [Salesforce](https://www.salesforce.com/) [agreed to buy](https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-listen-labs/) [Listen Labs](https://listenlabs.com/), a young startup that uses AI agents to run customer research. The price was reportedly about $2 billion. Listen Labs makes about $30 million a year, so that's roughly 67 times its revenue. Listen Labs even [walked away from a $1.5 billion funding offer](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/) to take the deal.
-- Bending Spoons, a company that buys established apps like Evernote and Vimeo, bought software company [Airtable](https://www.airtable.com/) for [$1.28 billion in cash](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/). Airtable makes more than 15 times what Listen Labs does. Yet it sold for [less than three times its revenue](https://dealroom.co/resources/airtable-bending-spoons/). In 2021, it was valued above $11 billion.
-- Five weeks later, Bending Spoons agreed to buy software company [Miro](https://miro.com/) for $1.355 billion. That's [90% below its peak value](https://www.forbes.com/sites/josipamajic/2026/09/10/bending-spoons-buys-miro-at-90-discount-as-saas-unicorns-sell-for-scraps/).
+- Bending Spoons, a company that buys established apps like Evernote and Vimeo, bought [Airtable](https://www.airtable.com/) for [$1.28 billion in cash](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/). Airtable makes more than 15 times what Listen Labs does. Yet it sold for [less than three times its revenue](https://dealroom.co/resources/airtable-bending-spoons/). In 2021, it was valued above $11 billion.
+- Five weeks later, Bending Spoons agreed to buy [Miro](https://miro.com/) for $1.355 billion. That's [90% below its peak value](https://www.forbes.com/sites/josipamajic/2026/09/10/bending-spoons-buys-miro-at-90-discount-as-saas-unicorns-sell-for-scraps/).
 - Meanwhile, [EliseAI](https://www.eliseai.com/), which automates the admin work of rental housing, raised money at a [$4 billion valuation](https://www.globenewswire.com/news-release/2026/09/29/3370681/0/en/eliseai-raises-350-million-at-4-billion-valuation-to-bring-ai-deeper-into-housing-and-healthcare-operations.html), on more than $200 million in yearly revenue. Investor Trace Cohen of Value Add VC says it earned that [<mark>"on usage, not narrative."</mark>](https://valueaddvc.com/pulse/eliseai-350m-round-4b-valuation-2026)
 
 Size can't explain the gap, because Airtable is the far bigger company. **Salesforce bought a slope. Bending Spoons bought a cash flow.** A young AI product is priced on how steeply it could grow. An older software company is priced like a mature business that throws off cash, which is exactly what Bending Spoons likes to buy.
@@ -83,7 +83,7 @@ For software founders, that's the game now. Revenue sets the floor. The growth s
 
 Think of AI as a three-layer cake. The AI models are at the bottom, the apps built on them are in the middle, and the customer sits on top. The big question for the next five years is which layer gets to eat.
 
-Pranav Pai, founding partner at Bengaluru VC firm 3one4 Capital, thinks the AI labs are coming for the top layer: [<mark>"The most profitable move in artificial intelligence may no longer be selling intelligence."</mark>](https://inc42.com/resources/selling-intelligence-was-the-warm-up-for-ai-owning-vertical-markets-may-be-the-play/) His evidence: Anthropic launched its own design tool, Claude Design, after partnering with design software company Figma. It launched Claude for Legal after featuring legal AI startup Harvey as a customer. And OpenAI now sells its own customer-support agent, after support software company Intercom built its agents on OpenAI's models.
+Pranav Pai, founding partner at Bengaluru VC firm 3one4 Capital, thinks the AI labs are coming for the top layer: [<mark>"The most profitable move in artificial intelligence may no longer be selling intelligence."</mark>](https://inc42.com/resources/selling-intelligence-was-the-warm-up-for-ai-owning-vertical-markets-may-be-the-play/) His evidence: Anthropic launched its own design tool, Claude Design, after partnering with Figma. It launched Claude for Legal after featuring legal AI startup Harvey as a customer. And OpenAI now sells its own customer-support agent, after support software company Intercom built its agents on OpenAI's models.
 
 Asset manager State Street Global Advisors sees it the other way. In a [September note](https://www.ssga.com/us/en/intermediary/insights/beyond-deepseek-chinas-2026-model-wave-and-the-repricing-of-the-ai-stack), it argues that the lead among AI labs changes hands so often that none of them can hold on to it. That leaves more of the profit for the companies using AI. Investor Tomasz Tunguz of Theory Ventures shows the pressure on the labs: the price of using AI models has [fallen 41%, while usage rose 50%](https://tomtunguz.com/what-if-the-models-are-commoditized/).
 
@@ -124,14 +124,14 @@ Two IPOs, days apart, ended very differently.
 
 Online lender [Moneyview](https://moneyview.in/) raised ₹1,092 crore in its IPO. Investors applied for about 100 times the shares on offer. On its first day of trading, the stock [opened more than 60% above](https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-28-oct-3-12618694) its IPO price.
 
-AceVector, the parent of online marketplace Snapdeal, raised ₹420 crore. Demand was weaker: investors applied for about five times the shares on offer. Then the stock [listed 11.6% below](https://inc42.com/buzz/snapdeal-parent-acevector-lists-at-11-6-discount-on-bse/) its IPO price and ended its first day 18.4% down. Snapdeal was once valued at $6.5 billion, and it cut its losses sharply last year. But investors still passed.
+Snapdeal's parent company, AceVector, raised ₹420 crore. Demand was weaker: investors applied for about five times the shares on offer. Then the stock [listed 11.6% below](https://inc42.com/buzz/snapdeal-parent-acevector-lists-at-11-6-discount-on-bse/) its IPO price and ended its first day 18.4% down. Snapdeal was once valued at $6.5 billion, and it cut its losses sharply last year. But investors still passed.
 
-Inc42's [analysis](https://inc42.com/features/snapdeal-makes-it-to-d-street-but-wheres-the-moat/) explains why in one comparison. In FY26, about 12 million people bought something on Snapdeal. On its rival Meesho, 264 million did.
+Inc42's [analysis](https://inc42.com/features/snapdeal-makes-it-to-d-street-but-wheres-the-moat/) explains why in one comparison. In FY26, about 12 million people bought something on Snapdeal. On Meesho, 264 million did.
 
 The lesson for India's IPO pipeline: a famous name and a smaller loss won't carry you. Scale will. Three more companies are lining up to test that:
 
 - **StockGro**, an app that teaches people to invest, has filed confidentially for an IPO of [up to ₹2,500 crore](https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/). That means its draft papers aren't public yet.
-- **Tonbo Imaging**, a defence electronics maker, has approval from market regulator SEBI to list. In its IPO, only existing shareholders [will sell shares](https://www.tradingview.com/news/moodys:613c6053f815e:0-defence-electronics-maker-tonbo-imaging-receives-sebi-approval-for-ipo/). The company itself raises nothing.
+- **Tonbo Imaging**, a defence electronics maker, has SEBI's approval to list. In its IPO, only existing shareholders [will sell shares](https://www.tradingview.com/news/moodys:613c6053f815e:0-defence-electronics-maker-tonbo-imaging-receives-sebi-approval-for-ipo/). The company itself raises nothing.
 - **Kuku**, an audio-series app, [turned profitable in FY26](https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/) on ₹1,484 crore of revenue and is getting ready to list.
 {: .bul}
 
