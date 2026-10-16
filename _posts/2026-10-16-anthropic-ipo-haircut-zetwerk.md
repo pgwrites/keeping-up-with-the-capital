@@ -1,9 +1,9 @@
 ---
-title: "Investors are questioning how AI gets paid for, and chip stocks, CoreWeave and Anthropic's IPO price all fell"
-description: "Why debt worries hit chip stocks, CoreWeave and Anthropic's expected IPO valuation, why private investors still paid up for Modal, Ramp and Anduril, corporates backing AI hardware startups, and Zetwerk's IPO below its last private price."
+title: "Worries over the cost of AI wiped $1.6 trillion off chip stocks and $500 billion off Anthropic's expected IPO value"
+description: "Why worries over the cost of AI hit chip stocks, CoreWeave and Anthropic's expected IPO value, why private investors still paid up for Modal, Ramp and Anduril, corporates backing AI hardware startups, and Zetwerk's IPO below its last private price."
 edition_no: "002"
 date_label: "16th October 2026"
-card_title: "AI's debt worries hit Anthropic"
+card_title: "AI cost fears hit chips and Anthropic"
 covers: "10 October to 16 October 2026"
 ---
 
@@ -23,10 +23,10 @@ Let's get to it.
 
 ## The Big Sip
 
-# Investors are questioning how AI gets paid for, and chip stocks, CoreWeave and Anthropic's IPO price all fell
+# Worries over the cost of AI wiped $1.6 trillion off chip stocks and $500 billion off Anthropic's expected IPO value
 {: .take}
 
-For two years, investors funded AI's build-out with little argument. This week, they started asking who pays for it, and the answer showed up in three places at once.
+For two years, investors funded AI's build-out with little argument. This week, they started worrying about what it costs and how much of it runs on borrowed money. The worry showed up in three places at once.
 
 First, chip stocks. US chipmakers lost [$1.64 trillion in value](https://www.aol.com/articles/us-chip-stocks-set-wipe-135038000.html) in just over a week. Reuters put it down to bets on an interest-rate hike and worries about the cost of building AI.
 
