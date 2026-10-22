@@ -34,7 +34,7 @@ Sources that have no working feed, checked by search instead:
 - **Entrackr weekly funding report.** Its site blocks fetching. Find the week's report with WebSearch ("Entrackr funding and acquisitions in Indian startups this week [dates]"); the search result title and Entrackr's own post on X usually carry the total and deal count.
 - **SEBI** (DRHPs, AIF data) and **DPIIT/PIB** (startup policy): search for the week's filings and announcements.
 
-Retired from the core run: StrictlyVC's own feed stopped updating in 2020 (TechCrunch Venture covers it). "The Signal" at thesignal.substack.com is Alex Banks's AI newsletter, not an India VC source; don't use it until PG confirms which Signal she meant.
+Retired from the core run: StrictlyVC's own feed stopped updating in 2020 (TechCrunch Venture covers it).
 
 ## Step 3: Pull the numbers for The Week in Numbers
 
