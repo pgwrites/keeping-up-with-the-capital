@@ -9,7 +9,7 @@ Every edition follows these rules. Read this file in full before researching or 
 - Reader: someone who recently got interested in VC and Indian startups. They know how venture works (rounds, valuations, dilution) and everyday startup terms (ARR, burn, Series A). They don't yet know most companies, funds or investors by name. They can follow one number at a time, but not several at once, and need to be told what a number means: is it big, small, good or bad? They respond best to plain words, short direct sentences and a warm, engaging tone.
 - Published every Friday at 6 PM IST. Each edition covers Saturday to Friday of that week.
 
-## 2. Structure (five sections, in this order)
+## 2. Structure (in this order)
 
 1. **Greeting** (fixed opening, no heading):
    - "Hello there, stranger! 👀"
@@ -19,10 +19,11 @@ Every edition follows these rules. Read this file in full before researching or 
 2. **The Big Sip**: the one story or tension that defines the week. The headline is the page's only `#` (H1) heading. About 300–400 words.
 3. **Connecting the Dots**: two or three patterns built from several stories. This is the signature section. Investor theses, exits and people moves live here when they support a pattern. If a pattern doesn't make a reader think "huh", don't run it.
 4. **India, Inc.**: two or three insight-led stories. Lead with the insight, use market data as supporting context. Interesting IPOs are written up in prose (what happened, the numbers, why it matters), never as a table.
-5. **The Deal Sheet**: deals not already covered elsewhere in the edition.
-6. **Watchlist**: three or four open questions for the coming weeks. Questions, not predictions.
-7. **Rabbit Holes**: one featured read plus two to four bulleted links.
-8. **Sources**: the collapsible "+ Sources" list of every link used.
+5. **The Week in Numbers**: three or four one-line benchmarks (see section 12).
+6. **The Deal Sheet**: deals not already covered elsewhere in the edition.
+7. **Watchlist**: three or four open questions for the coming weeks. Questions, not predictions.
+8. **Rabbit Holes**: one featured read plus two to four bulleted links.
+9. **Sources**: the collapsible "+ Sources" list of every link used.
 
 Skip any section that has nothing good that week. Never pad.
 
@@ -130,7 +131,7 @@ One or two plain sentences on who they are.
 ## 11. Weekly procedure
 
 1. Work out the coverage window: the Saturday to Friday ending on publication day (IST).
-2. Research the week across global and Indian sources, plus investor and operator commentary. Keep notes of every source URL you open.
+2. Read `SOURCES.md` and follow it in order: the forwards inbox, the core feed sweep, the numbers, then search to fill gaps. Research across global and Indian sources, plus investor and operator commentary. Keep notes of every source URL you open, and of any feed that failed to load.
 3. Pick the Big Sip and the patterns first, then the India stories, then the Deal Sheet. Apply the narrative test.
 4. Write the edition to `_posts/YYYY-MM-DD-short-keyword-slug.md` with this front matter:
 
@@ -148,4 +149,24 @@ covers: "10 October to 16 October 2026"
    Mirror `_posts/2026-10-09-anthropic-ipo-family-offices.md` for the body markup (intro div, `{: .take}` headings, `pattern` divs, Deal Sheet list, Watchlist, Rabbit Holes, Sources).
 5. Fact-check every number and date against its source, then proofread.
 6. Update `_data/memory.yml` and any memory pages, following the memory rule.
-7. Commit to `main` with the message "Edition NNN: <headline>" and push. GitHub Pages publishes within a few minutes.
+7. Move the processed items in `_inbox/forwards.md` from "New" to "Done", as `SOURCES.md` describes.
+8. Commit to `main` with the message "Edition NNN: <headline>" and push. GitHub Pages publishes within a few minutes.
+9. In the run's summary, list any core feed that failed to load.
+
+## 12. The Week in Numbers
+
+A small block of benchmarks, so each edition leaves a record of the market week to week. It goes between India, Inc. and The Deal Sheet.
+
+```markdown
+## The Week in Numbers
+
+- **$236 million** raised by 25 Indian startups (12–16 October), almost double the week before, [per Inc42](LINK).
+- …
+```
+
+- Three or four bullets, one line each. Lead with the bold number, then say in plain words what it means.
+- Always include: the Indian weekly total and deal count, with the change from the week before, from Inc42 (see `SOURCES.md` for timing and for why Inc42 wins over Entrackr). Give the dates the figure covers.
+- Then pick one or two from: the week's biggest global round (Crunchbase News's weekly list), the biggest Indian round, the leading sector by money raised, or a new quarterly figure from a data report (Crunchbase, PitchBook, Carta, Tracxn, Blume, Bain) published that week.
+- Every number links to its source and is copied from it, not estimated. Round as section 3 says.
+- No commentary beyond the one line. If a number belongs in a story, use it there and pick another here; nothing appears twice (section 6).
+- Skip the block if the Inc42 figure can't be found.

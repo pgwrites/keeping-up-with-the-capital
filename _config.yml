@@ -57,4 +57,5 @@ exclude:
   - README.md
   - STYLE.md
   - CLAUDE.md
+  - SOURCES.md
   - drafts/
