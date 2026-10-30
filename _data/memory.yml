@@ -10,14 +10,15 @@
 
 investors:
   - name: "Accel"
-    editions: [1, 2]
+    editions: [1, 2, 4]
     page: "accel"
   - name: "Andreessen Horowitz"
     editions: [1]
   - name: "Benchmark"
     editions: [1]
   - name: "Bessemer Venture Partners"
-    editions: [1]
+    editions: [1, 4]
+    page: "bessemer-venture-partners"
   - name: "Coatue"
     editions: [1, 3]
     page: "coatue"
@@ -25,7 +26,8 @@ investors:
     editions: [1, 2]
     page: "dragoneer"
   - name: "General Catalyst"
-    editions: [1]
+    editions: [1, 4]
+    page: "general-catalyst"
   - name: "GIC"
     editions: [1]
   - name: "Jane Street"
@@ -34,7 +36,8 @@ investors:
     editions: [1, 2]
     page: "lightspeed"
   - name: "Menlo Ventures"
-    editions: [1]
+    editions: [1, 4]
+    page: "menlo-ventures"
   - name: "Peak XV Partners"
     editions: [1, 2, 3]
     page: "peak-xv-partners"
@@ -80,7 +83,7 @@ investors:
   - name: "BlackRock"
     editions: [2]
   - name: "Blume Ventures"
-    editions: [2, 3]
+    editions: [2, 3, 4]
     page: "blume-ventures"
   - name: "Chiratae Ventures"
     editions: [2]
@@ -114,6 +117,22 @@ investors:
     editions: [3]
   - name: "Shopify Ventures"
     editions: [3]
+  - name: "CapitalG"
+    editions: [4]
+  - name: "Emergence Capital"
+    editions: [4]
+  - name: "Baillie Gifford"
+    editions: [4]
+  - name: "SoftBank"
+    editions: [4]
+  - name: "Nvidia"
+    editions: [4]
+  - name: "Dallas Venture Capital"
+    editions: [4]
+  - name: "South Park Commons"
+    editions: [4]
+  - name: "Longshot Capital"
+    editions: [4]
 
 companies:
   - name: "Agrani Labs"
@@ -124,7 +143,7 @@ companies:
   - name: "Airtable"
     editions: [1]
   - name: "Anthropic"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 4]
     page: "anthropic"
   - name: "Armadin"
     editions: [1]
@@ -149,15 +168,17 @@ companies:
   - name: "Kuku"
     editions: [1]
   - name: "Listen Labs"
-    editions: [1]
+    editions: [1, 4]
+    page: "listen-labs"
   - name: "Meesho"
-    editions: [1]
+    editions: [1, 4]
+    page: "meesho"
   - name: "Miro"
     editions: [1]
   - name: "Moneyview"
     editions: [1]
   - name: "OpenAI"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 4]
     page: "openai"
   - name: "Salesforce"
     editions: [1]
@@ -168,7 +189,7 @@ companies:
   - name: "Supabase"
     editions: [1]
   - name: "Tonbo Imaging"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 4]
     page: "tonbo-imaging"
   - name: "CoreWeave"
     editions: [2]
@@ -186,7 +207,7 @@ companies:
     editions: [2, 3]
     page: "zetwerk"
   - name: "Jio Platforms"
-    editions: [2, 3]
+    editions: [2, 3, 4]
     page: "jio-platforms"
   - name: "Anduril"
     editions: [2]
@@ -199,7 +220,8 @@ companies:
   - name: "GreenCell Mobility"
     editions: [2]
   - name: "Urban Company"
-    editions: [3]
+    editions: [3, 4]
+    page: "urban-company"
   - name: "Blacksmith"
     editions: [3]
   - name: "Legora"
@@ -218,18 +240,48 @@ companies:
     editions: [3]
   - name: "Firmus"
     editions: [3]
+  - name: "Upwind"
+    editions: [4]
+  - name: "Datadog"
+    editions: [4]
+  - name: "Bedrock Robotics"
+    editions: [4]
+  - name: "Ather Energy"
+    editions: [4]
+  - name: "Paytm"
+    editions: [4]
+  - name: "Pine Labs"
+    editions: [4]
+  - name: "Shadowfax"
+    editions: [4]
+  - name: "VerSe Innovation"
+    editions: [4]
+  - name: "Ola Electric"
+    editions: [4]
+  - name: "Simplismart"
+    editions: [4]
+  - name: "Cent"
+    editions: [4]
+  - name: "Matiks"
+    editions: [4]
+  - name: "Amazon"
+    editions: [4]
+  - name: "Google"
+    editions: [4]
+  - name: "Microsoft"
+    editions: [4]
 
 themes:
   - name: "Frontier AI IPOs"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 4]
     page: "frontier-ai-ipos"
   - name: "Private AI valuations"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 4]
     page: "private-ai-valuations"
   - name: "Software repricing"
     editions: [1]
   - name: "Who captures AI value"
-    editions: [1, 2]
+    editions: [1, 2, 4]
     page: "who-captures-ai-value"
   - name: "Family offices in Indian startups"
     editions: [1, 3]
@@ -238,7 +290,7 @@ themes:
     editions: [1, 2]
     page: "indian-deeptech-financing"
   - name: "Indian startup IPOs"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 4]
     page: "indian-startup-ipos"
   - name: "AI infrastructure debt"
     editions: [2]
@@ -248,3 +300,9 @@ themes:
     editions: [3]
   - name: "Fewer, bigger Indian funding rounds"
     editions: [3]
+  - name: "Private rounds outbidding acquirers"
+    editions: [4]
+  - name: "Indian listed startups turning profitable"
+    editions: [4]
+  - name: "Markdowns of 2021–22 Indian bets"
+    editions: [4]
