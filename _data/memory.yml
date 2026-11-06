@@ -17,7 +17,7 @@ investors:
   - name: "Benchmark"
     editions: [1]
   - name: "Bessemer Venture Partners"
-    editions: [1, 4]
+    editions: [1, 4, 5]
     page: "bessemer-venture-partners"
   - name: "Coatue"
     editions: [1, 3]
@@ -39,7 +39,7 @@ investors:
     editions: [1, 4]
     page: "menlo-ventures"
   - name: "Peak XV Partners"
-    editions: [1, 2, 3]
+    editions: [1, 2, 3, 5]
     page: "peak-xv-partners"
   - name: "Premji Invest"
     editions: [1, 3]
@@ -48,10 +48,11 @@ investors:
     editions: [1, 2]
     page: "samsung"
   - name: "Sequoia Capital"
-    editions: [1, 3]
+    editions: [1, 3, 5]
     page: "sequoia-capital"
   - name: "Tiger Global"
-    editions: [1]
+    editions: [1, 5]
+    page: "tiger-global"
   - name: "360 One"
     editions: [1, 2]
     page: "360-one"
@@ -61,7 +62,8 @@ investors:
   - name: "Velumani family office"
     editions: [1]
   - name: "Kleiner Perkins"
-    editions: [2]
+    editions: [2, 5]
+    page: "kleiner-perkins"
   - name: "Thrive Capital"
     editions: [2]
   - name: "Founders Fund"
@@ -90,7 +92,8 @@ investors:
   - name: "Kalaari Capital"
     editions: [2]
   - name: "Speciale Invest"
-    editions: [2]
+    editions: [2, 5]
+    page: "speciale-invest"
   - name: "Crosspoint Capital Partners"
     editions: [2]
   - name: "Z47"
@@ -106,7 +109,8 @@ investors:
   - name: "Navam Capital"
     editions: [3]
   - name: "Khosla Ventures"
-    editions: [3]
+    editions: [3, 5]
+    page: "khosla-ventures"
   - name: "Norwest"
     editions: [3]
   - name: "Lok Capital"
@@ -122,7 +126,8 @@ investors:
   - name: "Emergence Capital"
     editions: [4]
   - name: "Baillie Gifford"
-    editions: [4]
+    editions: [4, 5]
+    page: "baillie-gifford"
   - name: "SoftBank"
     editions: [4]
   - name: "Nvidia"
@@ -130,9 +135,30 @@ investors:
   - name: "Dallas Venture Capital"
     editions: [4]
   - name: "South Park Commons"
-    editions: [4]
+    editions: [4, 5]
+    page: "south-park-commons"
   - name: "Longshot Capital"
     editions: [4]
+  - name: "Redpoint Ventures"
+    editions: [5]
+  - name: "NBCUniversal"
+    editions: [5]
+  - name: "Hornbill Capital"
+    editions: [5]
+  - name: "Multiples Alternate Asset Management"
+    editions: [5]
+  - name: "Disruptive"
+    editions: [5]
+  - name: "MGX"
+    editions: [5]
+  - name: "HongShan"
+    editions: [5]
+  - name: "Ridgeline"
+    editions: [5]
+  - name: "Capricorn"
+    editions: [5]
+  - name: "Daksham Capital"
+    editions: [5]
 
 companies:
   - name: "Agrani Labs"
@@ -143,7 +169,7 @@ companies:
   - name: "Airtable"
     editions: [1]
   - name: "Anthropic"
-    editions: [1, 2, 3, 4]
+    editions: [1, 2, 3, 4, 5]
     page: "anthropic"
   - name: "Armadin"
     editions: [1]
@@ -166,7 +192,8 @@ companies:
   - name: "Kalshi"
     editions: [1]
   - name: "Kuku"
-    editions: [1]
+    editions: [1, 5]
+    page: "kuku"
   - name: "Listen Labs"
     editions: [1, 4]
     page: "listen-labs"
@@ -176,9 +203,10 @@ companies:
   - name: "Miro"
     editions: [1]
   - name: "Moneyview"
-    editions: [1]
+    editions: [1, 5]
+    page: "moneyview"
   - name: "OpenAI"
-    editions: [1, 2, 3, 4]
+    editions: [1, 2, 3, 4, 5]
     page: "openai"
   - name: "Salesforce"
     editions: [1]
@@ -255,11 +283,14 @@ companies:
   - name: "Shadowfax"
     editions: [4]
   - name: "VerSe Innovation"
-    editions: [4]
+    editions: [4, 5]
+    page: "verse-innovation"
   - name: "Ola Electric"
-    editions: [4]
+    editions: [4, 5]
+    page: "ola-electric"
   - name: "Simplismart"
-    editions: [4]
+    editions: [4, 5]
+    page: "simplismart"
   - name: "Cent"
     editions: [4]
   - name: "Matiks"
@@ -270,27 +301,63 @@ companies:
     editions: [4]
   - name: "Microsoft"
     editions: [4]
+  - name: "Fal"
+    editions: [5]
+  - name: "Razorpay"
+    editions: [5]
+  - name: "PhonePe"
+    editions: [5]
+  - name: "EloElo"
+    editions: [5]
+  - name: "JioHotstar"
+    editions: [5]
+  - name: "Traversal"
+    editions: [5]
+  - name: "Harbinger"
+    editions: [5]
+  - name: "FedEx"
+    editions: [5]
+  - name: "Fiddler AI"
+    editions: [5]
+  - name: "Dreadnode"
+    editions: [5]
+  - name: "CrowdStrike"
+    editions: [5]
+  - name: "GIVA"
+    editions: [5]
+  - name: "Venomics AI"
+    editions: [5]
+  - name: "Groq"
+    editions: [5]
+  - name: "ElevenLabs"
+    editions: [5]
+  - name: "Databricks"
+    editions: [5]
+  - name: "Uber"
+    editions: [5]
+  - name: "Stripe"
+    editions: [5]
 
 themes:
   - name: "Frontier AI IPOs"
-    editions: [1, 2, 3, 4]
+    editions: [1, 2, 3, 4, 5]
     page: "frontier-ai-ipos"
   - name: "Private AI valuations"
-    editions: [1, 2, 3, 4]
+    editions: [1, 2, 3, 4, 5]
     page: "private-ai-valuations"
   - name: "Software repricing"
     editions: [1]
   - name: "Who captures AI value"
-    editions: [1, 2, 4]
+    editions: [1, 2, 4, 5]
     page: "who-captures-ai-value"
   - name: "Family offices in Indian startups"
-    editions: [1, 3]
+    editions: [1, 3, 5]
     page: "family-offices-in-indian-startups"
   - name: "Indian deeptech financing"
     editions: [1, 2]
     page: "indian-deeptech-financing"
   - name: "Indian startup IPOs"
-    editions: [1, 2, 3, 4]
+    editions: [1, 2, 3, 4, 5]
     page: "indian-startup-ipos"
   - name: "AI infrastructure debt"
     editions: [2]
@@ -305,4 +372,11 @@ themes:
   - name: "Indian listed startups turning profitable"
     editions: [4]
   - name: "Markdowns of 2021–22 Indian bets"
-    editions: [4]
+    editions: [4, 5]
+    page: "markdowns-of-2021-22-indian-bets"
+  - name: "AI compute shortage"
+    editions: [5]
+  - name: "VC firms concentrating bets"
+    editions: [5]
+  - name: "Indian microdramas"
+    editions: [5]
