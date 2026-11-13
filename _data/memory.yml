@@ -33,7 +33,7 @@ investors:
   - name: "Jane Street"
     editions: [1]
   - name: "Lightspeed"
-    editions: [1, 2]
+    editions: [1, 2, 6]
     page: "lightspeed"
   - name: "Menlo Ventures"
     editions: [1, 4]
@@ -65,9 +65,11 @@ investors:
     editions: [2, 5]
     page: "kleiner-perkins"
   - name: "Thrive Capital"
-    editions: [2]
+    editions: [2, 6]
+    page: "thrive-capital"
   - name: "Founders Fund"
-    editions: [2]
+    editions: [2, 6]
+    page: "founders-fund"
   - name: "Siemens"
     editions: [2]
   - name: "AMD Ventures"
@@ -97,7 +99,8 @@ investors:
   - name: "Crosspoint Capital Partners"
     editions: [2]
   - name: "Z47"
-    editions: [2]
+    editions: [2, 6]
+    page: "z47"
   - name: "Elevation Capital"
     editions: [2]
   - name: "Impact Fund Denmark"
@@ -112,7 +115,8 @@ investors:
     editions: [3, 5]
     page: "khosla-ventures"
   - name: "Norwest"
-    editions: [3]
+    editions: [3, 6]
+    page: "norwest"
   - name: "Lok Capital"
     editions: [3]
   - name: "GM Ventures"
@@ -129,9 +133,11 @@ investors:
     editions: [4, 5]
     page: "baillie-gifford"
   - name: "SoftBank"
-    editions: [4]
+    editions: [4, 6]
+    page: "softbank"
   - name: "Nvidia"
-    editions: [4]
+    editions: [4, 6]
+    page: "nvidia"
   - name: "Dallas Venture Capital"
     editions: [4]
   - name: "South Park Commons"
@@ -140,7 +146,8 @@ investors:
   - name: "Longshot Capital"
     editions: [4]
   - name: "Redpoint Ventures"
-    editions: [5]
+    editions: [5, 6]
+    page: "redpoint-ventures"
   - name: "NBCUniversal"
     editions: [5]
   - name: "Hornbill Capital"
@@ -159,6 +166,30 @@ investors:
     editions: [5]
   - name: "Daksham Capital"
     editions: [5]
+  - name: "Valor Equity Partners"
+    editions: [6]
+  - name: "UK National Wealth Fund"
+    editions: [6]
+  - name: "US-Ukraine Reconstruction Investment Fund"
+    editions: [6]
+  - name: "UK Sovereign AI fund"
+    editions: [6]
+  - name: "British Business Bank"
+    editions: [6]
+  - name: "Technology Development Board"
+    editions: [6]
+  - name: "WestCap"
+    editions: [6]
+  - name: "Sofina"
+    editions: [6]
+  - name: "MGF Kavachh"
+    editions: [6]
+  - name: "Seafund"
+    editions: [6]
+  - name: "Titan Capital"
+    editions: [6]
+  - name: "Hitachi"
+    editions: [6]
 
 companies:
   - name: "Agrani Labs"
@@ -169,7 +200,7 @@ companies:
   - name: "Airtable"
     editions: [1]
   - name: "Anthropic"
-    editions: [1, 2, 3, 4, 5]
+    editions: [1, 2, 3, 4, 5, 6]
     page: "anthropic"
   - name: "Armadin"
     editions: [1]
@@ -206,7 +237,7 @@ companies:
     editions: [1, 5]
     page: "moneyview"
   - name: "OpenAI"
-    editions: [1, 2, 3, 4, 5]
+    editions: [1, 2, 3, 4, 5, 6]
     page: "openai"
   - name: "Salesforce"
     editions: [1]
@@ -220,7 +251,8 @@ companies:
     editions: [1, 2, 3, 4]
     page: "tonbo-imaging"
   - name: "CoreWeave"
-    editions: [2]
+    editions: [2, 6]
+    page: "coreweave"
   - name: "Modal"
     editions: [2]
   - name: "Ramp"
@@ -286,7 +318,7 @@ companies:
     editions: [4, 5]
     page: "verse-innovation"
   - name: "Ola Electric"
-    editions: [4, 5]
+    editions: [4, 5, 6]
     page: "ola-electric"
   - name: "Simplismart"
     editions: [4, 5]
@@ -296,9 +328,11 @@ companies:
   - name: "Matiks"
     editions: [4]
   - name: "Amazon"
-    editions: [4]
+    editions: [4, 6]
+    page: "amazon"
   - name: "Google"
-    editions: [4]
+    editions: [4, 6]
+    page: "google"
   - name: "Microsoft"
     editions: [4]
   - name: "Fal"
@@ -337,18 +371,62 @@ companies:
     editions: [5]
   - name: "Stripe"
     editions: [5]
+  - name: "SpaceX"
+    editions: [6]
+  - name: "Klarna"
+    editions: [6]
+  - name: "StubHub"
+    editions: [6]
+  - name: "Fractile"
+    editions: [6]
+  - name: "AMD"
+    editions: [6]
+  - name: "Broadcom"
+    editions: [6]
+  - name: "UFORCE"
+    editions: [6]
+  - name: "Greenjoules"
+    editions: [6]
+  - name: "E2E Networks"
+    editions: [6]
+  - name: "ESDS"
+    editions: [6]
+  - name: "Yotta"
+    editions: [6]
+  - name: "Nebius"
+    editions: [6]
+  - name: "IREN"
+    editions: [6]
+  - name: "AdaniConneX"
+    editions: [6]
+  - name: "Neysa"
+    editions: [6]
+  - name: "Zupee"
+    editions: [6]
+  - name: "Unacademy"
+    editions: [6]
+  - name: "upGrad"
+    editions: [6]
+  - name: "Agile Robots"
+    editions: [6]
+  - name: "PlatinumRx"
+    editions: [6]
+  - name: "mistEO"
+    editions: [6]
+  - name: "Hundo Pizza"
+    editions: [6]
 
 themes:
   - name: "Frontier AI IPOs"
-    editions: [1, 2, 3, 4, 5]
+    editions: [1, 2, 3, 4, 5, 6]
     page: "frontier-ai-ipos"
   - name: "Private AI valuations"
-    editions: [1, 2, 3, 4, 5]
+    editions: [1, 2, 3, 4, 5, 6]
     page: "private-ai-valuations"
   - name: "Software repricing"
     editions: [1]
   - name: "Who captures AI value"
-    editions: [1, 2, 4, 5]
+    editions: [1, 2, 4, 5, 6]
     page: "who-captures-ai-value"
   - name: "Family offices in Indian startups"
     editions: [1, 3, 5]
@@ -357,7 +435,7 @@ themes:
     editions: [1, 2]
     page: "indian-deeptech-financing"
   - name: "Indian startup IPOs"
-    editions: [1, 2, 3, 4, 5]
+    editions: [1, 2, 3, 4, 5, 6]
     page: "indian-startup-ipos"
   - name: "AI infrastructure debt"
     editions: [2]
@@ -372,7 +450,7 @@ themes:
   - name: "Indian listed startups turning profitable"
     editions: [4]
   - name: "Markdowns of 2021–22 Indian bets"
-    editions: [4, 5]
+    editions: [4, 5, 6]
     page: "markdowns-of-2021-22-indian-bets"
   - name: "AI compute shortage"
     editions: [5]
@@ -380,3 +458,13 @@ themes:
     editions: [5]
   - name: "Indian microdramas"
     editions: [5]
+  - name: "AI stock sell-off"
+    editions: [6]
+  - name: "Alternatives to Nvidia"
+    editions: [6]
+  - name: "Governments co-leading startup rounds"
+    editions: [6]
+  - name: "Indian neoclouds"
+    editions: [6]
+  - name: "India's real-money gaming ban"
+    editions: [6]
