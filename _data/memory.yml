@@ -10,7 +10,7 @@
 
 investors:
   - name: "Accel"
-    editions: [1, 2, 4]
+    editions: [1, 2, 4, 7]
     page: "accel"
   - name: "Andreessen Horowitz"
     editions: [1]
@@ -20,7 +20,7 @@ investors:
     editions: [1, 4, 5]
     page: "bessemer-venture-partners"
   - name: "Coatue"
-    editions: [1, 3]
+    editions: [1, 3, 7]
     page: "coatue"
   - name: "Dragoneer"
     editions: [1, 2]
@@ -33,13 +33,13 @@ investors:
   - name: "Jane Street"
     editions: [1]
   - name: "Lightspeed"
-    editions: [1, 2, 6]
+    editions: [1, 2, 6, 7]
     page: "lightspeed"
   - name: "Menlo Ventures"
-    editions: [1, 4]
+    editions: [1, 4, 7]
     page: "menlo-ventures"
   - name: "Peak XV Partners"
-    editions: [1, 2, 3, 5]
+    editions: [1, 2, 3, 5, 7]
     page: "peak-xv-partners"
   - name: "Premji Invest"
     editions: [1, 3]
@@ -48,7 +48,7 @@ investors:
     editions: [1, 2]
     page: "samsung"
   - name: "Sequoia Capital"
-    editions: [1, 3, 5]
+    editions: [1, 3, 5, 7]
     page: "sequoia-capital"
   - name: "Tiger Global"
     editions: [1, 5]
@@ -112,7 +112,7 @@ investors:
   - name: "Navam Capital"
     editions: [3]
   - name: "Khosla Ventures"
-    editions: [3, 5]
+    editions: [3, 5, 7]
     page: "khosla-ventures"
   - name: "Norwest"
     editions: [3, 6]
@@ -130,13 +130,13 @@ investors:
   - name: "Emergence Capital"
     editions: [4]
   - name: "Baillie Gifford"
-    editions: [4, 5]
+    editions: [4, 5, 7]
     page: "baillie-gifford"
   - name: "SoftBank"
     editions: [4, 6]
     page: "softbank"
   - name: "Nvidia"
-    editions: [4, 6]
+    editions: [4, 6, 7]
     page: "nvidia"
   - name: "Dallas Venture Capital"
     editions: [4]
@@ -190,6 +190,30 @@ investors:
     editions: [6]
   - name: "Hitachi"
     editions: [6]
+  - name: "Spark Capital"
+    editions: [7]
+  - name: "Greenoaks"
+    editions: [7]
+  - name: "Y Combinator"
+    editions: [7]
+  - name: "General Atlantic"
+    editions: [7]
+  - name: "QED Investors"
+    editions: [7]
+  - name: "Goldman Sachs Alternatives"
+    editions: [7]
+  - name: "Prosus Ventures"
+    editions: [7]
+  - name: "Bajaj Finance"
+    editions: [7]
+  - name: "Pennant Technologies"
+    editions: [7]
+  - name: "Claypond Capital"
+    editions: [7]
+  - name: "Madhu Kela"
+    editions: [7]
+  - name: "Equirus InnovateX Fund"
+    editions: [7]
 
 companies:
   - name: "Agrani Labs"
@@ -200,7 +224,7 @@ companies:
   - name: "Airtable"
     editions: [1]
   - name: "Anthropic"
-    editions: [1, 2, 3, 4, 5, 6]
+    editions: [1, 2, 3, 4, 5, 6, 7]
     page: "anthropic"
   - name: "Armadin"
     editions: [1]
@@ -256,7 +280,8 @@ companies:
   - name: "Modal"
     editions: [2]
   - name: "Ramp"
-    editions: [2]
+    editions: [2, 7]
+    page: "ramp"
   - name: "Skeleton Technologies"
     editions: [2]
   - name: "Salience Labs"
@@ -331,14 +356,15 @@ companies:
     editions: [4, 6]
     page: "amazon"
   - name: "Google"
-    editions: [4, 6]
+    editions: [4, 6, 7]
     page: "google"
   - name: "Microsoft"
     editions: [4]
   - name: "Fal"
     editions: [5]
   - name: "Razorpay"
-    editions: [5]
+    editions: [5, 7]
+    page: "razorpay"
   - name: "PhonePe"
     editions: [5]
   - name: "EloElo"
@@ -372,7 +398,8 @@ companies:
   - name: "Stripe"
     editions: [5]
   - name: "SpaceX"
-    editions: [6]
+    editions: [6, 7]
+    page: "spacex"
   - name: "Klarna"
     editions: [6]
   - name: "StubHub"
@@ -415,24 +442,42 @@ companies:
     editions: [6]
   - name: "Hundo Pizza"
     editions: [6]
+  - name: "Isomorphic Labs"
+    editions: [7]
+  - name: "Science Corporation"
+    editions: [7]
+  - name: "Model ML"
+    editions: [7]
+  - name: "Payhawk"
+    editions: [7]
+  - name: "Soket AI"
+    editions: [7]
+  - name: "Humyn Labs"
+    editions: [7]
+  - name: "August AI"
+    editions: [7]
+  - name: "Fatehpuria Hygiene"
+    editions: [7]
+  - name: "CountAI"
+    editions: [7]
 
 themes:
   - name: "Frontier AI IPOs"
-    editions: [1, 2, 3, 4, 5, 6]
+    editions: [1, 2, 3, 4, 5, 6, 7]
     page: "frontier-ai-ipos"
   - name: "Private AI valuations"
-    editions: [1, 2, 3, 4, 5, 6]
+    editions: [1, 2, 3, 4, 5, 6, 7]
     page: "private-ai-valuations"
   - name: "Software repricing"
     editions: [1]
   - name: "Who captures AI value"
-    editions: [1, 2, 4, 5, 6]
+    editions: [1, 2, 4, 5, 6, 7]
     page: "who-captures-ai-value"
   - name: "Family offices in Indian startups"
     editions: [1, 3, 5]
     page: "family-offices-in-indian-startups"
   - name: "Indian deeptech financing"
-    editions: [1, 2]
+    editions: [1, 2, 7]
     page: "indian-deeptech-financing"
   - name: "Indian startup IPOs"
     editions: [1, 2, 3, 4, 5, 6]
@@ -468,3 +513,11 @@ themes:
     editions: [6]
   - name: "India's real-money gaming ban"
     editions: [6]
+  - name: "Tech investors backing medicine"
+    editions: [7]
+  - name: "AI agents for finance"
+    editions: [7]
+  - name: "Indian AI startups selling to US customers"
+    editions: [7]
+  - name: "India's foundational AI models"
+    editions: [7]
